@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "baerlauch",
+    "name": "Bärlauch",
+    "latin": "Allium ursinum",
+    "kategorie": "kraut",
+    "emoji": "🌿",
+    "monate": [3, 4, 5],
+    "teile": "Junge Blätter vor der Blüte, später Blütenknospen und Blüten",
+    "lebensraum": "Feuchte, schattige Laubwälder und Bachtobel, oft in grossen Teppichen.",
+    "erkennen": [
+      "Jedes Blatt wächst einzeln an einem eigenen, dünnen Stiel aus dem Boden",
+      "Blattunterseite matt, Oberseite glänzend; Blatt weich und dünn",
+      "Deutlicher Knoblauchgeruch beim Zerreiben (Achtung: Geruch haftet an den Fingern und täuscht beim nächsten Blatt)",
+      "Weisse, sternförmige Blüten in einer lockeren Kugeldolde (April–Mai)"
+    ],
+    "verwechslung": [
+      {"art": "Maiglöckchen", "giftig": true, "unterschied": "Meist zwei Blätter am selben Stiel, die sich unten umfassen; Blattunterseite glänzend; kein Knoblauchgeruch."},
+      {"art": "Herbstzeitlose", "giftig": true, "unterschied": "Tödlich giftig. Mehrere steife, glänzende Blätter ohne Stiel kommen gemeinsam aus dem Boden, oft mit Samenkapsel in der Mitte; kein Knoblauchgeruch; wächst eher auf Wiesen und an Waldrändern."},
+      {"art": "Aronstab", "giftig": true, "unterschied": "Blätter pfeilförmig mit netzartigen Blattadern (Bärlauch: parallele Adern); wächst oft mitten im Bärlauch."}
+    ],
+    "verwendung": "Roh essbar: Pesto, Kräuterbutter, Quark, Salat. Erhitzt verliert er Aroma, darum erst am Schluss zugeben.",
+    "kinder": "Blatt zerreiben und schnuppern: Der ganze Wald riecht nach Knoblauch.",
+    "risiko": "hoch",
+    "hinweis": "Jedes Blatt einzeln pflücken und prüfen, nie büschelweise abreissen. Bei Unsicherheit stehen lassen; bei Verdacht auf Vergiftung sofort Tox Info Suisse 145. Gut waschen. Nur 1–2 Blätter pro Pflanze nehmen, in Naturschutzgebieten nicht sammeln."
+  },
+  {
+    "id": "brennnessel",
+    "name": "Grosse Brennnessel",
+    "latin": "Urtica dioica",
+    "kategorie": "kraut",
+    "emoji": "🌱",
+    "monate": [3, 4, 5, 6, 7, 8, 9],
+    "teile": "Junge Triebspitzen (obere 4–6 Blätter), im Spätsommer die Samen",
+    "lebensraum": "Nährstoffreiche Stellen an Waldrändern, Wegrändern, Bachufern und bei Ställen.",
+    "erkennen": [
+      "Brennhaare an Stängel und Blättern – sie brennt bei Berührung",
+      "Vierkantiger Stängel, Blätter gegenständig",
+      "Blätter länglich-herzförmig, grob gesägt, zugespitzt",
+      "Unscheinbare grünliche Blütenrispen, die aus den Blattachseln hängen"
+    ],
+    "verwechslung": [
+      {"art": "Taubnesseln", "giftig": false, "unterschied": "Brennen nicht und haben auffällige weisse, gelbe oder purpurne Lippenblüten; ebenfalls essbar."}
+    ],
+    "verwendung": "Wie Spinat kochen, für Suppe, Wähe oder Knöpfli. Kurzes Blanchieren, Kochen oder kräftiges Walzen mit dem Wallholz zerstört die Brennhaare. Samen geröstet übers Müesli.",
+    "kinder": "Mutprobe: Blatt von unten nach oben streichen und falten – so brennt es kaum.",
+    "risiko": "niedrig",
+    "hinweis": "Mit Handschuhen sammeln. Nicht direkt am Wegrand (Hunde) und nicht an stark gedüngten Stellen ernten."
+  },
+  {
+    "id": "loewenzahn",
+    "name": "Löwenzahn",
+    "latin": "Taraxacum officinale agg.",
+    "kategorie": "kraut",
+    "emoji": "🌼",
+    "monate": [3, 4, 5, 6, 9, 10],
+    "teile": "Junge Blätter, Blütenknospen, gelbe Blüten",
+    "lebensraum": "Wiesen, Weiden, Wegränder und Gärten – fast überall.",
+    "erkennen": [
+      "Blattrosette am Boden, Blätter tief «gezähnt» mit rückwärts gerichteten Zipfeln",
+      "Hohler, blattloser, unverzweigter Stängel mit genau einem Blütenkopf",
+      "Weisser Milchsaft in Stängel und Blattrippen",
+      "Aus der gelben Blüte wird die «Pusteblume»"
+    ],
+    "verwechslung": [
+      {"art": "Ferkelkraut, Pippau, Herbst-Löwenzahn", "giftig": false, "unterschied": "Ähnliche gelbe Korbblüten, aber Stängel meist verzweigt, nicht hohl oder Blätter behaart; ungiftig."}
+    ],
+    "verwendung": "Junge Blätter roh als Salat (leicht bitter), Blüten für «Löwenzahnhonig» (Sirup) oder aufs Butterbrot, Knospen in Butter gebraten.",
+    "kinder": "Pusteblumen-Wettblasen oder aus den Stängeln Ketten und Wasserleitungen stecken.",
+    "risiko": "niedrig",
+    "hinweis": "Die Stängel mit viel Milchsaft nicht in Mengen kauen, das kann Bauchweh machen. Nicht von frisch gegüllten Wiesen sammeln; gut waschen."
+  },
+  {
+    "id": "giersch",
+    "name": "Giersch (Geissfuss)",
+    "latin": "Aegopodium podagraria",
+    "kategorie": "kraut",
+    "emoji": "🌿",
+    "monate": [3, 4, 5, 6],
+    "teile": "Junge, noch hellgrün glänzende Blätter",
+    "lebensraum": "Halbschattige, nährstoffreiche Stellen in Gärten, Hecken, Auenwäldern und an Waldrändern.",
+    "erkennen": [
+      "Blattstiel im Querschnitt dreikantig (dreieckig mit Rinne), kahl",
+      "«3-3-3-Regel»: Blatt dreiteilig, jeder Teil meist nochmals dreigeteilt; Blättchen eiförmig, gesägt",
+      "Geruch beim Zerreiben nach Rüebli und Petersilie",
+      "Stängel kahl, gerillt, ohne rote Flecken; weisse Dolden ohne Hüllblätter",
+      "Wächst flächig mit unterirdischen Ausläufern"
+    ],
+    "verwechslung": [
+      {"art": "Gefleckter Schierling", "giftig": true, "unterschied": "Tödlich giftig. Runder, kahler, bläulich bereifter Stängel mit rotvioletten Flecken; Blätter sehr fein mehrfach gefiedert; riecht unangenehm nach Mäuseurin."},
+      {"art": "Hundspetersilie", "giftig": true, "unterschied": "Blätter fein gefiedert wie Petersilie, Unterseite stark glänzend; runder Stängel; unangenehmer Geruch beim Zerreiben; unter den Döldchen lange, herabhängende Hüllblättchen."},
+      {"art": "Hecken-Kälberkropf", "giftig": true, "unterschied": "Stängel borstig behaart, rot gefleckt und unter den Knoten verdickt; Blätter fein gefiedert."},
+      {"art": "Wasserschierling", "giftig": true, "unterschied": "Tödlich giftig. Wächst direkt am oder im Wasser; Blätter mit schmalen, lanzettlichen Fiedern; knollig verdickter, innen gekammerter Wurzelstock."}
+    ],
+    "verwendung": "Jung roh in Salat oder Kräuterquark, sonst wie Spinat gedünstet, in Suppe oder Wähe.",
+    "kinder": "Detektivaufgabe: Blattstiel durchschneiden und das Dreieck suchen.",
+    "risiko": "hoch",
+    "hinweis": "Doldenblütler sind für Anfänger die gefährlichste Pflanzenfamilie: Einige Arten sind tödlich giftig. Giersch nur sammeln, wenn ALLE Merkmale stimmen, am besten zuerst mit einer kundigen Person. Sonst keine wilden Doldenblütler sammeln."
+  },
+  {
+    "id": "gaensebluemchen",
+    "name": "Gänseblümchen",
+    "latin": "Bellis perennis",
+    "kategorie": "blüte",
+    "emoji": "🌼",
+    "monate": [3, 4, 5, 6, 7, 8, 9, 10],
+    "teile": "Blüten, Knospen und junge Blätter",
+    "lebensraum": "Kurz gemähte Wiesen, Rasen und Weiden.",
+    "erkennen": [
+      "Flache Rosette aus kleinen, spatelförmigen Blättern am Boden",
+      "Blattloser, behaarter Stiel mit einem einzelnen Blütenköpfchen",
+      "Weisse, oft rosa überlaufene Zungenblüten um eine gelbe Mitte",
+      "Nur wenige Zentimeter hoch"
+    ],
+    "verwechslung": [
+      {"art": "Margerite, Kamille", "giftig": false, "unterschied": "Deutlich grösser, mit beblättertem Stängel; ungiftig."}
+    ],
+    "verwendung": "Roh essbar: Blüten als Dekoration auf Salat, Butterbrot oder Suppe; Knospen schmecken leicht nussig.",
+    "kinder": "Blütenkränze flechten und das Znünibrot verzieren.",
+    "risiko": "niedrig",
+    "hinweis": "Nicht von Hundewiesen sammeln; waschen. In grossen Mengen nicht empfehlenswert – als Dekoration geniessen."
+  },
+  {
+    "id": "spitzwegerich",
+    "name": "Spitzwegerich",
+    "latin": "Plantago lanceolata",
+    "kategorie": "kraut",
+    "emoji": "🌱",
+    "monate": [4, 5, 6, 7, 8, 9],
+    "teile": "Junge Blätter, Blütenknospen",
+    "lebensraum": "Wiesen, Weiden und Wegränder.",
+    "erkennen": [
+      "Rosette aus schmalen, lanzettlichen Blättern",
+      "3–7 deutlich hervortretende, parallel laufende Blattnerven",
+      "Blattloser, kantig gefurchter Stängel mit kurzer, bräunlicher Blütenähre",
+      "Weisse Staubbeutel stehen wie ein Kranz um die Ähre"
+    ],
+    "verwechslung": [
+      {"art": "Breitwegerich, Mittlerer Wegerich", "giftig": false, "unterschied": "Breitere, rundliche Blätter; ebenfalls essbar."}
+    ],
+    "verwendung": "Junge Blätter fein quer geschnitten roh in Salat oder gedünstet; die Knospen schmecken roh oder gebraten leicht nach Pilz.",
+    "kinder": "Knospen probieren: Wer schmeckt den «Champignon»? Oder mit dem Stängel «Wegerich-Schiessen» spielen.",
+    "risiko": "niedrig",
+    "hinweis": "Nur blühende oder eindeutig geaderte Pflanzen nehmen. Nicht direkt am Wegrand sammeln; waschen."
+  },
+  {
+    "id": "sauerklee",
+    "name": "Wald-Sauerklee",
+    "latin": "Oxalis acetosella",
+    "kategorie": "kraut",
+    "emoji": "☘️",
+    "monate": [4, 5, 6, 7, 8, 9],
+    "teile": "Blätter und Blüten, nur wenige",
+    "lebensraum": "Schattige, moosige Stellen in Nadel- und Laubwäldern.",
+    "erkennen": [
+      "Drei herzförmige, zarte, hellgrüne Teilblättchen an dünnem Stiel",
+      "Blättchen klappen bei Regen, Dunkelheit und starker Sonne nach unten",
+      "Weisse Blüten mit feinen violetten Adern (April–Mai)",
+      "Schmeckt deutlich sauer"
+    ],
+    "verwechslung": [
+      {"art": "Buschwindröschen", "giftig": true, "unterschied": "Wächst am gleichen Ort und blüht auch weiss, hat aber handförmig tief eingeschnittene Blätter, keine drei Herzchen."},
+      {"art": "Klee-Arten", "giftig": false, "unterschied": "Ovale statt herzförmige Teilblättchen, nicht sauer; ungiftig."}
+    ],
+    "verwendung": "Roh als saurer Tupfer auf Salat, Dessert oder direkt als Wanderproviant – nur einige Blättchen.",
+    "kinder": "Der «Zitronenklee»: ein Blatt probieren und das Gesicht verziehen.",
+    "risiko": "niedrig",
+    "hinweis": "Enthält Oxalsäure: nur kleine Mengen naschen, nichts für Personen mit Nierenproblemen."
+  },
+  {
+    "id": "knoblauchsrauke",
+    "name": "Knoblauchsrauke",
+    "latin": "Alliaria petiolata",
+    "kategorie": "kraut",
+    "emoji": "🌿",
+    "monate": [3, 4, 5, 6],
+    "teile": "Junge Blätter, Blüten, grüne Schoten",
+    "lebensraum": "Halbschattige Waldränder, Hecken und Wegränder.",
+    "erkennen": [
+      "Untere Blätter nieren- bis herzförmig, grob gekerbt; obere eher dreieckig-spitz",
+      "Riecht beim Zerreiben nach Knoblauch",
+      "Kleine weisse Blüten mit vier Blütenblättern (Kreuzblütler)",
+      "Später lange, schmale, abstehende Schoten; Pflanze 30–100 cm hoch"
+    ],
+    "verwechslung": [
+      {"art": "Gundermann", "giftig": false, "unterschied": "Kriecht am Boden, hat blauviolette Lippenblüten und riecht herb-würzig statt nach Knoblauch; als Gewürz essbar."},
+      {"art": "Brennnessel (jung)", "giftig": false, "unterschied": "Brennt und riecht nicht nach Knoblauch."}
+    ],
+    "verwendung": "Roh verwenden (beim Kochen verfliegt das Aroma): fein geschnitten in Salat, Quark oder aufs Butterbrot.",
+    "kinder": "Riechtest: Wer findet die Pflanze, die nach Knoblauch duftet, aber kein Bärlauch ist?",
+    "risiko": "niedrig",
+    "hinweis": "Nur mit Geruchsprobe sammeln; waschen."
+  },
+  {
+    "id": "gundermann",
+    "name": "Gundermann (Gundelrebe)",
+    "latin": "Glechoma hederacea",
+    "kategorie": "kraut",
+    "emoji": "🌿",
+    "monate": [3, 4, 5, 6],
+    "teile": "Junge Blätter und Blüten als Gewürz",
+    "lebensraum": "Feuchte Wiesen, Hecken, Waldränder und Gärten.",
+    "erkennen": [
+      "Kriecht mit langen Ausläufern am Boden, Blühtriebe richten sich auf",
+      "Vierkantiger Stängel, Blätter gegenständig",
+      "Blätter rundlich-nierenförmig, gekerbt, weich",
+      "Blauviolette Lippenblüten in den Blattachseln",
+      "Kräftig herb-würziger Geruch beim Zerreiben"
+    ],
+    "verwechslung": [
+      {"art": "Efeu (junge Bodentriebe)", "giftig": true, "unterschied": "Blätter ledrig, glänzend, gelappt und wechselständig; Stängel rund und verholzt; kein würziger Duft."},
+      {"art": "Kriechender Günsel", "giftig": false, "unterschied": "Blätter ganzrandig bis schwach gekerbt, Blüten in dichter aufrechter Ähre, kaum Duft; ungiftig."}
+    ],
+    "verwendung": "Roh, sparsam als Gewürz: fein gehackt in Kräuterquark, Kräuterbutter oder Kartoffelgerichten.",
+    "kinder": "Stängel zwischen den Fingern rollen und die vier Kanten fühlen.",
+    "risiko": "niedrig",
+    "hinweis": "Nur in kleinen Mengen als Gewürz verwenden, nicht als Gemüse."
+  },
+  {
+    "id": "vogelmiere",
+    "name": "Vogelmiere",
+    "latin": "Stellaria media",
+    "kategorie": "kraut",
+    "emoji": "🌱",
+    "monate": [3, 4, 5, 6, 7, 8, 9, 10],
+    "teile": "Ganze junge Triebe mit Blättern und Blüten",
+    "lebensraum": "Gartenbeete, Äcker, lockere, nährstoffreiche Böden.",
+    "erkennen": [
+      "Runder Stängel mit einer einzigen Haarleiste auf einer Seite",
+      "Beim vorsichtigen Auseinanderziehen des Stängels bleibt innen ein dehnbarer Faden",
+      "Kleine weisse Sternblüten: fünf Blütenblätter, so tief gespalten, dass es wie zehn aussieht",
+      "Kleine, eiförmig-spitze, gegenständige Blätter; schmeckt mild nach jungem Mais"
+    ],
+    "verwechslung": [
+      {"art": "Acker-Gauchheil", "giftig": true, "unterschied": "Vierkantiger, kahler Stängel ohne Haarleiste und ohne Innenfaden; Blüten orangerot (selten blau); Blattunterseite dunkel gepunktet."}
+    ],
+    "verwendung": "Roh essbar: als Salat, im Kräuterquark, auf dem Butterbrot oder als Pesto.",
+    "kinder": "Zaubertrick: Stängel sanft auseinanderziehen und den «Gummifaden» zeigen.",
+    "risiko": "mittel",
+    "hinweis": "Nur blühende Pflanzen sammeln und Haarleiste prüfen. Waschen."
+  },
+  {
+    "id": "waldmeister",
+    "name": "Waldmeister",
+    "latin": "Galium odoratum",
+    "kategorie": "kraut",
+    "emoji": "🍀",
+    "monate": [4, 5],
+    "teile": "Triebe kurz vor der Blüte",
+    "lebensraum": "Schattige Buchen- und Laubmischwälder, oft in Teppichen.",
+    "erkennen": [
+      "Schmale, lanzettliche Blätter stehen in Quirlen zu 6–9 wie Stockwerke übereinander",
+      "Vierkantiger, glatter, unverzweigter Stängel, 10–30 cm hoch",
+      "Kleine weisse, vierzipflige Blüten in lockeren Schirmchen",
+      "Der typische Duft entsteht erst beim Anwelken"
+    ],
+    "verwechslung": [
+      {"art": "Andere Labkräuter (z.B. Wald-Labkraut, Kletten-Labkraut)", "giftig": false, "unterschied": "Duften beim Welken nicht nach Waldmeister; Kletten-Labkraut bleibt an den Kleidern hängen."}
+    ],
+    "verwendung": "Nur zum Aromatisieren: ein kleines Sträusschen einige Stunden anwelken lassen und kurz in Sirup, Most oder Milch hängen, dann entfernen. Nicht als Salat oder Gemüse essen.",
+    "kinder": "Ein Sträusschen in die Jackentasche stecken und nach einer Stunde daran riechen.",
+    "risiko": "niedrig",
+    "hinweis": "Enthält Cumarin, das in grösseren Mengen Kopfweh und Übelkeit auslösen kann: sparsam dosieren (Richtwert etwa 3 g frisches Kraut pro Liter), für Kinder nur schwach aromatisierte Getränke."
+  },
+  {
+    "id": "wiesenschaumkraut",
+    "name": "Wiesenschaumkraut",
+    "latin": "Cardamine pratensis",
+    "kategorie": "blüte",
+    "emoji": "🌸",
+    "monate": [4, 5],
+    "teile": "Blüten und junge Blätter, nur wenige",
+    "lebensraum": "Feuchte Wiesen, Bachränder und lichte Auenwälder.",
+    "erkennen": [
+      "Blasslila bis weisse Blüten mit vier Blütenblättern und dunkleren Adern",
+      "Gelbe Staubbeutel",
+      "Grundblätter in Rosette, gefiedert mit rundlichen Blättchen; Stängelblätter mit schmalen Fiedern",
+      "Schmeckt scharf nach Kresse",
+      "Oft «Kuckucksspeichel» (Schaumnester der Schaumzikade) am Stängel"
+    ],
+    "verwechslung": [
+      {"art": "Bitteres Schaumkraut", "giftig": false, "unterschied": "Weisse Blüten mit violetten Staubbeuteln, wächst an Quellen und Bächen; ebenfalls essbar."}
+    ],
+    "verwendung": "Roh als kresseartige Würze: einige Blüten und Blättchen über Salat, Frischkäse oder Butterbrot.",
+    "kinder": "Schaumnester suchen und vorsichtig nachsehen, wer darin wohnt.",
+    "risiko": "niedrig",
+    "hinweis": "Wichtige Futterpflanze für die Raupen des Aurorafalters: nur einzelne Blüten nehmen. Nicht von gedüngten Wiesen; nicht in Schutzgebieten."
+  },
+  {
+    "id": "schafgarbe",
+    "name": "Gemeine Schafgarbe",
+    "latin": "Achillea millefolium",
+    "kategorie": "kraut",
+    "emoji": "🌾",
+    "monate": [4, 5, 6, 7, 8, 9],
+    "teile": "Junge Blätter (Frühling), Blüten (Sommer)",
+    "lebensraum": "Sonnige, eher trockene Wiesen, Weiden und Wegränder.",
+    "erkennen": [
+      "Blätter schmal, lang und sehr fein mehrfach gefiedert («tausend Blättchen»), weich",
+      "Stängel zäh, kantig, wollig behaart, erst oben verzweigt",
+      "Blütenstand sieht aus wie eine Dolde, besteht aber aus vielen kleinen Körbchen mit je etwa fünf weissen (selten rosa) Zungenblüten und gelblicher Mitte",
+      "Würzig-herber Geruch beim Zerreiben"
+    ],
+    "verwechslung": [
+      {"art": "Gefleckter Schierling und andere weisse Doldenblütler", "giftig": true, "unterschied": "Echte Dolden: alle Blütenstiele entspringen einem Punkt wie Schirmspeichen, Einzelblüten mit fünf freien Blütenblättern ohne Körbchen; Stängel hohl, beim Schierling kahl und rot gefleckt. Schafgarbe: zäher, behaarter, markiger Stängel und kleine «Gänseblümchen-Körbchen»."}
+    ],
+    "verwendung": "Junge Blättchen roh und sparsam als herbe Würze in Kräuterquark oder Salat; Blüten für Tee.",
+    "kinder": "Ein Blatt unter die Lupe nehmen und die «tausend Blättchen» zählen.",
+    "risiko": "mittel",
+    "hinweis": "Nur blühende Pflanzen mit eindeutigen Körbchenblüten sammeln. Kann bei Korbblütler-Allergie Hautreaktionen auslösen; in der Schwangerschaft meiden."
+  },
+  {
+    "id": "quendel",
+    "name": "Wilder Thymian (Quendel)",
+    "latin": "Thymus pulegioides / Thymus serpyllum agg.",
+    "kategorie": "kraut",
+    "emoji": "🌿",
+    "monate": [5, 6, 7, 8, 9],
+    "teile": "Blühende Triebspitzen",
+    "lebensraum": "Sonnige, magere Wiesen, Weiden, Böschungen und Ameisenhügel.",
+    "erkennen": [
+      "Niedrige, kriechende Polster, nur 5–20 cm hoch",
+      "Kleine, eiförmige, gegenständige Blättchen",
+      "Rosa bis purpurne kleine Lippenblüten in Köpfchen",
+      "Kräftiger Thymianduft beim Zerreiben"
+    ],
+    "verwechslung": [
+      {"art": "Dost (Wilder Majoran)", "giftig": false, "unterschied": "Viel höher (30–60 cm), aufrecht, grössere Blätter; ebenfalls ein essbares Gewürz."}
+    ],
+    "verwendung": "Roh oder gekocht als Gewürz wie Gartenthymian; frisch oder getrocknet für Tee, Kartoffeln, Grilladen.",
+    "kinder": "Mit der Hand über das Polster streichen und an den Fingern riechen.",
+    "risiko": "niedrig",
+    "hinweis": "Nur Triebspitzen abschneiden, Polster nicht ausreissen. Auf Magerwiesen in Schutzgebieten nicht sammeln."
+  },
+  {
+    "id": "dost",
+    "name": "Dost (Wilder Majoran, Oregano)",
+    "latin": "Origanum vulgare",
+    "kategorie": "kraut",
+    "emoji": "🌿",
+    "monate": [7, 8, 9],
+    "teile": "Blühende Triebspitzen und Blätter",
+    "lebensraum": "Sonnige Waldränder, Böschungen, trockene Wiesen und Hecken.",
+    "erkennen": [
+      "Aufrechte, oft rötlich überlaufene, behaarte Stängel, 30–60 cm hoch",
+      "Eiförmige, gegenständige Blätter",
+      "Viele kleine rosa-purpurne Lippenblüten in dichten Büscheln, dazwischen dunkelrote Hochblätter",
+      "Duftet beim Zerreiben nach Pizza-Gewürz"
+    ],
+    "verwechslung": [
+      {"art": "Wirbeldost", "giftig": false, "unterschied": "Blüten in kugeligen, borstigen Quirlen übereinander, kaum Duft; ungiftig."},
+      {"art": "Wasserdost", "giftig": true, "unterschied": "Viel grösser (bis 1,5 m), wächst an feuchten Stellen, Blätter handförmig drei- bis fünfteilig, kein Oregano-Duft; leicht giftig."}
+    ],
+    "verwendung": "Roh oder gekocht wie Oregano: auf Pizza, in Tomatensauce, zu Grillgemüse; lässt sich gut trocknen.",
+    "kinder": "Riechtest: Welche Pflanze riecht nach Pizza? Dazu Schmetterlinge auf den Blüten zählen.",
+    "risiko": "niedrig",
+    "hinweis": "Beliebte Schmetterlings- und Bienenweide: nur einige Triebe pro Pflanze schneiden."
+  },
+  {
+    "id": "sauerampfer",
+    "name": "Wiesen-Sauerampfer",
+    "latin": "Rumex acetosa",
+    "kategorie": "kraut",
+    "emoji": "🥬",
+    "monate": [4, 5, 6],
+    "teile": "Junge, grüne Blätter",
+    "lebensraum": "Nährstoffreiche, frische Wiesen und Weiden.",
+    "erkennen": [
+      "Längliche, pfeilförmige Blätter: die zwei Zipfel am Blattgrund sind spitz und zeigen nach unten zum Stiel",
+      "Blätter etwas fleischig, glatt, mit einer Mittelrippe und fiedrig abzweigenden Seitennerven",
+      "Schmeckt deutlich sauer",
+      "Rötliche, lockere Blütenrispen an hohem, gerilltem Stängel"
+    ],
+    "verwechslung": [
+      {"art": "Aronstab", "giftig": true, "unterschied": "Blätter breiter, glänzend, oft dunkel gefleckt, mit netzartigen Adern und einem Randnerv, der parallel zum Blattrand läuft; Zipfel am Blattgrund abgerundet-stumpf. Wächst im Wald und in Hecken, nicht in der offenen Wiese. Brennt sofort stark im Mund."},
+      {"art": "Stumpfblättriger Ampfer («Blacke»)", "giftig": false, "unterschied": "Sehr grosse, breite Blätter mit herzförmigem Grund, nicht sauer, sondern bitter; ungeniessbar, nicht gefährlich."}
+    ],
+    "verwendung": "Roh in kleinen Mengen in Salat oder Kräuterquark, gekocht in Suppe oder Sauce.",
+    "kinder": "Der «Sauerländer» der Wiese: ein Blatt kauen und erraten, wonach es schmeckt.",
+    "risiko": "mittel",
+    "hinweis": "Enthält Oxalsäure: nur in kleinen Mengen, nicht bei Nierenproblemen; rot verfärbte, ältere Blätter stehen lassen. Nur in der offenen Wiese sammeln, nicht von gegüllten Flächen."
+  },
+  {
+    "id": "taubnessel",
+    "name": "Weisse Taubnessel",
+    "latin": "Lamium album",
+    "kategorie": "blüte",
+    "emoji": "🤍",
+    "monate": [4, 5, 6, 7, 8, 9],
+    "teile": "Blüten, junge Blätter und Triebspitzen",
+    "lebensraum": "Wegränder, Hecken, Waldränder und nährstoffreiche Böschungen.",
+    "erkennen": [
+      "Sieht aus wie eine Brennnessel, brennt aber nicht",
+      "Vierkantiger, hohler Stängel, Blätter gegenständig",
+      "Weisse Lippenblüten stehen in Quirlen rund um den Stängel",
+      "Blüten enthalten unten einen süssen Nektartropfen"
+    ],
+    "verwechslung": [
+      {"art": "Grosse Brennnessel", "giftig": false, "unterschied": "Brennt und hat nur unscheinbare grünliche Blütenrispen; gekocht ebenfalls essbar."},
+      {"art": "Gefleckte, Purpurrote und Gelbe Taubnessel (Goldnessel)", "giftig": false, "unterschied": "Rosa, purpurne bzw. gelbe Blüten; ebenfalls essbar."}
+    ],
+    "verwendung": "Blüten roh auszuzeln oder als essbare Dekoration; junge Blätter roh in Salat oder wie Spinat gedünstet.",
+    "kinder": "Blüte auszupfen und den süssen Nektar heraussaugen – wie eine Hummel.",
+    "risiko": "niedrig",
+    "hinweis": "Nicht direkt am Wegrand sammeln; den Hummeln genug Blüten lassen."
+  },
+  {
+    "id": "veilchen",
+    "name": "Duftveilchen (März-Veilchen)",
+    "latin": "Viola odorata",
+    "kategorie": "blüte",
+    "emoji": "💜",
+    "monate": [3, 4],
+    "teile": "Blüten",
+    "lebensraum": "Hecken, Waldränder, Gebüsche und alte Gärten.",
+    "erkennen": [
+      "Dunkelviolette Blüten mit fünf ungleichen Blütenblättern und einem Sporn nach hinten",
+      "Süsser, typischer Veilchenduft",
+      "Herz- bis nierenförmige, gekerbte Blätter in einer Rosette",
+      "Bildet oberirdische Ausläufer; nur 5–10 cm hoch"
+    ],
+    "verwechslung": [
+      {"art": "Leberblümchen", "giftig": true, "unterschied": "Blüht gleichzeitig blauviolett, hat aber sternförmige Blüten mit 6–9 gleichen Blütenblättern ohne Sporn und dreilappige, ledrige Blätter. Schwach giftig und vielerorts geschützt."},
+      {"art": "Andere Veilchen (z.B. Wald-Veilchen)", "giftig": false, "unterschied": "Blüten heller und duftlos; Blüten ebenfalls essbar."}
+    ],
+    "verwendung": "Blüten roh als Dekoration auf Dessert und Salat, kandiert oder für Veilchensirup.",
+    "kinder": "Am Boden schnuppern: Welche Veilchen duften und welche nicht?",
+    "risiko": "niedrig",
+    "hinweis": "Nur Blüten verwenden – Wurzeln und Samen sind ungeniessbar und können Brechreiz auslösen. Nur wenige Blüten pro Bestand pflücken."
+  },
+  {
+    "id": "rotklee",
+    "name": "Rotklee (Wiesenklee)",
+    "latin": "Trifolium pratense",
+    "kategorie": "blüte",
+    "emoji": "☘️",
+    "monate": [5, 6, 7, 8, 9],
+    "teile": "Blütenköpfe, junge Blätter",
+    "lebensraum": "Wiesen, Weiden und Wegränder.",
+    "erkennen": [
+      "Kugelige, rosarote bis purpurne Blütenköpfe aus vielen kleinen Röhrenblüten",
+      "Dreiteilige Blätter mit ovalen Teilblättchen",
+      "Meist ein heller, V-förmiger Fleck auf jedem Teilblättchen",
+      "Stängel und Blätter weich behaart"
+    ],
+    "verwechslung": [
+      {"art": "Andere Kleearten (z.B. Weissklee, Mittlerer Klee)", "giftig": false, "unterschied": "Weisse oder ähnlich rote Blütenköpfe; ungiftig, Blüten ebenfalls essbar."}
+    ],
+    "verwendung": "Einzelne Blütchen roh aus dem Kopf zupfen und über Salat, Müesli oder Dessert streuen; schmecken leicht süss.",
+    "kinder": "Blütchen auszupfen und am unteren Ende den süssen Nektar aussaugen.",
+    "risiko": "niedrig",
+    "hinweis": "Nur in kleinen Mengen als Dekoration und Nascherei geniessen. Nicht von gegüllten Wiesen."
+  },
+  {
+    "id": "maedesuess",
+    "name": "Echtes Mädesüss",
+    "latin": "Filipendula ulmaria",
+    "kategorie": "blüte",
+    "emoji": "☁️",
+    "monate": [6, 7, 8],
+    "teile": "Blütenstände",
+    "lebensraum": "Feuchte Wiesen, Bachufer, Gräben und Riedränder.",
+    "erkennen": [
+      "Cremeweisse, schaumig-wolkige Blütenstände mit süssem Honig-Mandel-Duft",
+      "Viele winzige Einzelblüten mit langen Staubblättern; die Seitenäste überragen die Mitte, kein Schirm mit Speichen",
+      "Gefiederte Blätter mit grossen gesägten Fiedern und winzigen Zwischenfiedern dazwischen; Endfieder dreilappig",
+      "Blattunterseite meist weissfilzig; Stängel kantig, oft rötlich, 1–1,5 m hoch",
+      "Zerriebene Blätter und Stängel riechen «nach Apotheke»"
+    ],
+    "verwechslung": [
+      {"art": "Wasserschierling und andere Doldenblütler an Gewässern", "giftig": true, "unterschied": "Echte, flache Dolden: Blütenstiele gehen wie Schirmspeichen von einem Punkt aus; Blätter fein zerteilt ohne Zwischenfiedern; Stängel hohl und rund."},
+      {"art": "Wald-Geissbart", "giftig": true, "unterschied": "Wächst im schattigen Wald, Blüten in langen, fingerartig überhängenden Rispen, Blätter doppelt bis dreifach gefiedert ohne Zwischenfiedern; roh leicht giftig."}
+    ],
+    "verwendung": "Blüten wie Holunderblüten zum Aromatisieren von Sirup, Rahm oder Dessert; nach dem Ziehen absieben.",
+    "kinder": "Duftprobe: Blüte riecht süss, zerriebenes Blatt nach Apotheke.",
+    "risiko": "mittel",
+    "hinweis": "Enthält Salicylsäure-Verbindungen: nicht für Personen mit Aspirin-(Salicylat-)Unverträglichkeit, für Kinder nur schwach aromatisiert. In Riedgebieten und Schutzgebieten nicht sammeln."
+  },
+  {
+    "id": "wegwarte",
+    "name": "Wegwarte",
+    "latin": "Cichorium intybus",
+    "kategorie": "blüte",
+    "emoji": "💙",
+    "monate": [7, 8, 9],
+    "teile": "Blüten; junge Rosettenblätter im Frühling nur für Geübte",
+    "lebensraum": "Sonnige Weg- und Ackerränder, Böschungen und Schuttplätze.",
+    "erkennen": [
+      "Himmelblaue Korbblüten mit vorne gezähnten Zungenblüten",
+      "Blüten sitzen fast stiellos direkt am Stängel",
+      "Sparrig verzweigte, zähe, kantige Stängel, 30–120 cm hoch",
+      "Blüten sind nur am Vormittag offen",
+      "Weisser Milchsaft"
+    ],
+    "verwechslung": [
+      {"art": "Löwenzahn (nur die Blattrosette)", "giftig": false, "unterschied": "Rosetten sehen ähnlich aus; beide essbar und bitter. Blühend ist die Wegwarte unverwechselbar."}
+    ],
+    "verwendung": "Blüten roh als blaue Dekoration auf Salat und Dessert (leicht bitter). Verwandt mit Chicorée und Zuckerhut.",
+    "kinder": "Am Morgen und am Nachmittag am gleichen Ort vorbeigehen: Wohin sind die blauen Blüten verschwunden?",
+    "risiko": "niedrig",
+    "hinweis": "Nur blühende Pflanzen bestimmen. Nicht an stark befahrenen Strassen sammeln."
+  },
+  {
+    "id": "holunder",
+    "name": "Schwarzer Holunder",
+    "latin": "Sambucus nigra",
+    "kategorie": "beere",
+    "emoji": "🫐",
+    "monate": [5, 6, 8, 9],
+    "teile": "Blütendolden (Mai–Juni), vollreife schwarze Beeren (August–September)",
+    "lebensraum": "Hecken, Waldränder, bei Höfen und Scheunen.",
+    "erkennen": [
+      "Verholzter Strauch oder kleiner Baum, 3–7 m, mit grauer, korkig-warziger Rinde",
+      "Zweige innen mit weissem, weichem Mark",
+      "Gefiederte Blätter mit meist fünf gesägten Fiedern",
+      "Grosse, flache, cremeweisse Blütenschirme mit gelben Staubbeuteln und süssem Duft",
+      "Reife Beeren schwarz-violett, die Dolden hängen an roten Stielen nach unten"
+    ],
+    "verwechslung": [
+      {"art": "Zwerg-Holunder (Attich)", "giftig": true, "unterschied": "Krautige, nicht verholzte Staude bis etwa 1,5 m; Blätter mit 7–11 schmalen Fiedern; Staubbeutel rötlich-violett; Fruchtstände stehen aufrecht; riecht unangenehm."},
+      {"art": "Roter Holunder (Trauben-Holunder)", "giftig": true, "unterschied": "Rote Beeren in eiförmigen Trauben, schon im Juli reif; Mark der Zweige zimtbraun. Roh giftig, die Kerne bleiben auch gekocht unbekömmlich."}
+    ],
+    "verwendung": "Blüten für Sirup oder im Teig ausgebacken. Beeren nur gekocht: Gelée, Sirup, Kompott, Suppe.",
+    "kinder": "Blütensirup ansetzen oder Dolden in Omelettenteig tauchen und ausbacken.",
+    "risiko": "mittel",
+    "hinweis": "Rohe und unreife Beeren, Stiele, Blätter und Rinde sind giftig (Erbrechen, Durchfall). Beeren immer gut durchkochen und grüne Stiele entfernen."
+  },
+  {
+    "id": "linde",
+    "name": "Linde (Sommer- und Winterlinde)",
+    "latin": "Tilia platyphyllos / Tilia cordata",
+    "kategorie": "baum",
+    "emoji": "🌳",
+    "monate": [4, 5, 6, 7],
+    "teile": "Junge, hellgrüne Blätter (April–Mai), Blüten (Juni–Juli)",
+    "lebensraum": "Laubmischwälder, Dorfplätze, Alleen und Höfe.",
+    "erkennen": [
+      "Herzförmige, am Grund schiefe Blätter mit gesägtem Rand und Spitze",
+      "Kleine Haarbüschel in den Nervenwinkeln der Blattunterseite",
+      "Gelblich-weisse, stark duftende Blüten hängen an einem schmalen, zungenförmigen Tragblatt",
+      "Kleine, kugelige Nüsschen am «Flügel»"
+    ],
+    "verwechslung": [
+      {"art": "Hasel (Blätter)", "giftig": false, "unterschied": "Blätter rundlicher, rau und weich behaart, doppelt gesägt; ungiftig."}
+    ],
+    "verwendung": "Junge Blätter roh als milder Salat oder aufs Sandwich; Blüten frisch oder getrocknet für Tee.",
+    "kinder": "Ein «Baumsalat»-Blatt probieren und die Propeller-Früchte fliegen lassen.",
+    "risiko": "niedrig",
+    "hinweis": "Nur wenige Blätter pro Ast, erreichbare Zweige nicht abreissen. Nicht von Strassenbäumen sammeln."
+  },
+  {
+    "id": "fichte",
+    "name": "Fichte (Rottanne)",
+    "latin": "Picea abies",
+    "kategorie": "baum",
+    "emoji": "🌲",
+    "monate": [5, 6],
+    "teile": "Junge, hellgrüne, weiche Triebspitzen (Maitriebe)",
+    "lebensraum": "Wälder vom Mittelland bis zur Waldgrenze.",
+    "erkennen": [
+      "Nadeln spitz und stechend, im Querschnitt vierkantig, rund um den Zweig angeordnet",
+      "Nadeln sitzen auf kleinen braunen Stielchen – kahle Zweige fühlen sich rau wie eine Raspel an",
+      "Längliche Zapfen hängen nach unten und fallen als Ganzes ab",
+      "Rötlich-braune, schuppige Rinde; harziger Duft"
+    ],
+    "verwechslung": [
+      {"art": "Eibe", "giftig": true, "unterschied": "TÖDLICH GIFTIG. Nadeln flach, weich, nicht stechend, oben dunkelgrün glänzend, unten hellgrün ohne weisse Streifen; kein Harz, kein Harzgeruch; keine Zapfen, sondern rote «Beeren» mit offenem Becher; grüne junge Zweige."},
+      {"art": "Weisstanne", "giftig": false, "unterschied": "Nadeln flach, stumpf, mit zwei weissen Streifen auf der Unterseite; Zapfen stehen aufrecht; Triebe ebenfalls verwendbar."}
+    ],
+    "verwendung": "Maitriebe roh naschen (zitronig-harzig), für Sirup («Tannenschössli-Honig») oder fein gehackt in Kräuterbutter.",
+    "kinder": "Spitzprobe: «Fichte sticht, Tanne nicht» – und einen sauren Maitrieb probieren.",
+    "risiko": "mittel",
+    "hinweis": "Kindern die Eibe zeigen und klar sagen: nie davon essen. Nur wenige Seitentriebe pro Baum pflücken, nie den Gipfeltrieb junger Bäume; der Wald gehört jemandem – massvoll sammeln oder beim Förster nachfragen."
+  },
+  {
+    "id": "buche",
+    "name": "Rotbuche",
+    "latin": "Fagus sylvatica",
+    "kategorie": "baum",
+    "emoji": "🌳",
+    "monate": [4, 5, 9, 10],
+    "teile": "Ganz junge, weiche Blätter (April–Mai), Bucheckern (September–Oktober)",
+    "lebensraum": "Häufigster Laubbaum der Wälder im Mittelland und in den Voralpen.",
+    "erkennen": [
+      "Glatte, silbergraue Rinde, auch bei alten Bäumen",
+      "Eiförmige, ganzrandige bis leicht gewellte Blätter, jung am Rand seidig bewimpert",
+      "Lange, spitze, zimtbraune Knospen",
+      "Dreikantige, glänzend braune Nüsschen (Bucheckern) in einem stacheligen, vierklappigen Becher"
+    ],
+    "verwechslung": [
+      {"art": "Hagebuche (Hainbuche)", "giftig": false, "unterschied": "Blätter doppelt gesägt und gefaltet wie eine Handorgel; Stamm mit Längswülsten; ungiftig."}
+    ],
+    "verwendung": "Junge Blätter roh (leicht säuerlich) in Salat oder aufs Butterbrot. Bucheckern schälen und in der Pfanne ohne Fett rösten – als Knabberei oder über Salat.",
+    "kinder": "Bucheckern sammeln, knacken und am Abend in der Pfanne rösten.",
+    "risiko": "niedrig",
+    "hinweis": "Rohe Bucheckern sind leicht giftig und können in grösserer Menge Bauchweh und Übelkeit auslösen: roh nur einzelne probieren, sonst rösten."
+  },
+  {
+    "id": "hasel",
+    "name": "Haselnuss",
+    "latin": "Corylus avellana",
+    "kategorie": "nuss",
+    "emoji": "🌰",
+    "monate": [9, 10],
+    "teile": "Reife Nüsse",
+    "lebensraum": "Hecken, Waldränder und lichte Wälder.",
+    "erkennen": [
+      "Vielstämmiger Strauch, 3–6 m hoch",
+      "Rundliche, weich behaarte, doppelt gesägte Blätter mit kurzer Spitze",
+      "Nüsse zu 1–4 in einer grünen, zerschlitzten Hülle",
+      "Im Spätwinter gelbe, hängende Kätzchen («Würstli»)"
+    ],
+    "verwechslung": [
+      {"art": "Baumhasel (in Parks und an Strassen)", "giftig": false, "unterschied": "Baum mit einem Stamm, Nüsse in stark zerfransten Hüllen; ebenfalls essbar."}
+    ],
+    "verwendung": "Roh oder geröstet essbar. Reif sind die Nüsse, wenn die Schale braun ist und sie von selbst aus der Hülle fallen.",
+    "kinder": "Nüsse mit einem Stein knacken – und Nüsse mit rundem Loch suchen (Haselnussbohrer oder Haselmaus?).",
+    "risiko": "niedrig",
+    "hinweis": "Haselnüsse sind ein häufiges Allergen. Kleinkindern keine ganzen Nüsse geben (Erstickungsgefahr). Schimmlige Nüsse wegwerfen."
+  },
+  {
+    "id": "walnuss",
+    "name": "Walnuss (Baumnuss)",
+    "latin": "Juglans regia",
+    "kategorie": "nuss",
+    "emoji": "🌰",
+    "monate": [9, 10],
+    "teile": "Reife, herabgefallene Nüsse",
+    "lebensraum": "Bei Höfen, an Feldwegen und Waldrändern in milden Lagen.",
+    "erkennen": [
+      "Grosser Baum mit breiter Krone und hellgrauer, später längsrissiger Rinde",
+      "Gefiederte Blätter mit 5–9 ganzrandigen Fiedern, das Endblatt am grössten",
+      "Blätter duften beim Zerreiben würzig-aromatisch",
+      "Nuss in glatter, grüner Fruchthülle, die bei Reife aufplatzt"
+    ],
+    "verwechslung": [
+      {"art": "Schwarznuss (in Parks)", "giftig": false, "unterschied": "Blätter mit 11–23 gesägten Fiedern, Nuss kugelig mit sehr harter, gefurchter Schale; essbar."}
+    ],
+    "verwendung": "Roh essbar. Frische «nasse» Nüsse häuten (die Haut ist bitter) oder die Nüsse an einem luftigen Ort trocknen.",
+    "kinder": "Aus den Schalenhälften Schiffchen mit Blattsegel bauen.",
+    "risiko": "niedrig",
+    "hinweis": "Die grüne Hülle färbt Hände tagelang braun – Handschuhe tragen. Schimmlige oder dunkel verfärbte Kerne nie essen. Häufiges Allergen. Nüsse unter Hofbäumen gehören dem Besitzer: vorher fragen."
+  },
+  {
+    "id": "edelkastanie",
+    "name": "Edelkastanie (Marroni)",
+    "latin": "Castanea sativa",
+    "kategorie": "nuss",
+    "emoji": "🌰",
+    "monate": [10],
+    "teile": "Reife, herabgefallene Früchte",
+    "lebensraum": "Warme Lagen: Tessin, Wallis, an Zuger-, Vierwaldstätter- und Walensee; im Mittelland nur vereinzelt.",
+    "erkennen": [
+      "Fruchthülle dicht mit langen, feinen, stechenden Stacheln besetzt – wie ein Igel",
+      "Meist 2–3 Früchte pro Hülle, auf einer Seite abgeflacht",
+      "Frucht mit Spitze und kleinem Haarbüschel («Pinsel»)",
+      "Blätter einzeln, länglich-lanzettlich, 12–20 cm, mit grob gezähntem Rand"
+    ],
+    "verwechslung": [
+      {"art": "Rosskastanie", "giftig": true, "unterschied": "Hülle dick, grün, mit wenigen kurzen, groben Stacheln; Frucht rundlich, glänzend, ohne Spitze und ohne Haarbüschel; Blätter handförmig aus 5–7 Fingern. Ungeniessbar, leicht giftig – nur zum Basteln."}
+    ],
+    "verwendung": "Schale kreuzweise einschneiden und rösten oder kochen. Roh nur schwer verdaulich.",
+    "kinder": "Mit festen Schuhen die Stachelhüllen aufdrücken und am Feuer Marroni braten.",
+    "risiko": "mittel",
+    "hinweis": "Vor dem Rösten immer einschneiden, sonst platzen sie. Wurmstichige und schimmlige aussortieren. In Kastanienselven (bewirtschaftete Haine) nur mit Erlaubnis sammeln."
+  },
+  {
+    "id": "walderdbeere",
+    "name": "Walderdbeere",
+    "latin": "Fragaria vesca",
+    "kategorie": "beere",
+    "emoji": "🍓",
+    "monate": [6, 7, 8],
+    "teile": "Reife Früchte",
+    "lebensraum": "Waldränder, Waldlichtungen, Wegböschungen.",
+    "erkennen": [
+      "Weisse Blüten mit fünf Blütenblättern",
+      "Dreiteilige, gesägte Blätter, unterseits seidig behaart",
+      "Kleine, rote, hängende Früchte mit aufsitzenden Nüsschen",
+      "Intensiver Erdbeerduft und -geschmack"
+    ],
+    "verwechslung": [
+      {"art": "Indische Scheinerdbeere", "giftig": false, "unterschied": "Gelbe Blüten; Frucht steht aufrecht, ist kugelig mit abstehenden roten Körnchen und schmeckt nach nichts. Ungiftig, aber fad."}
+    ],
+    "verwendung": "Roh essbar – direkt naschen, ins Müesli oder aufs Dessert.",
+    "kinder": "Beeren auf einen Grashalm auffädeln wie eine Perlenkette.",
+    "risiko": "niedrig",
+    "hinweis": "Bodennah wachsende Beeren wenn möglich waschen und nicht direkt am Wegrand pflücken (Hunde, Füchse). Das Fuchsbandwurm-Risiko ist sehr gering; sicher abgetötet werden die Eier nur durch Erhitzen, nicht durch Einfrieren im Haushalt."
+  },
+  {
+    "id": "himbeere",
+    "name": "Himbeere",
+    "latin": "Rubus idaeus",
+    "kategorie": "beere",
+    "emoji": "🍇",
+    "monate": [7, 8],
+    "teile": "Reife Früchte; junge Blätter für Tee",
+    "lebensraum": "Waldlichtungen, Schlagflächen und Waldwegränder.",
+    "erkennen": [
+      "Aufrechte Ruten mit feinen, weichen Stacheln",
+      "Gefiederte Blätter mit 3–7 Blättchen, Unterseite weissfilzig",
+      "Rote Sammelfrucht löst sich leicht vom weissen Zapfen und ist innen hohl"
+    ],
+    "verwechslung": [
+      {"art": "Brombeere (unreif rot)", "giftig": false, "unterschied": "Frucht löst sich nur mit dem Zapfen, reif schwarz; Ranken mit kräftigen Stacheln; essbar."}
+    ],
+    "verwendung": "Roh essbar; für Konfitüre, Sirup und Dessert.",
+    "kinder": "Beeren als «Fingerhüte» auf die Fingerspitzen stecken und abessen.",
+    "risiko": "niedrig",
+    "hinweis": "Beeren vor dem Essen kurz auf Maden prüfen. Im ortsüblichen Umfang für den Eigenbedarf sammeln."
+  },
+  {
+    "id": "brombeere",
+    "name": "Brombeere",
+    "latin": "Rubus fruticosus agg.",
+    "kategorie": "beere",
+    "emoji": "🫐",
+    "monate": [8, 9],
+    "teile": "Reife, schwarze Früchte",
+    "lebensraum": "Hecken, Waldränder, Lichtungen und Böschungen.",
+    "erkennen": [
+      "Lange, bogig überhängende Ranken mit kräftigen, hakigen Stacheln",
+      "Blätter mit 3–5 gesägten Blättchen, oft auch im Winter grün",
+      "Sammelfrucht aus vielen Einzelkügelchen, erst grün, dann rot, reif glänzend schwarz",
+      "Frucht löst sich zusammen mit dem Zapfen"
+    ],
+    "verwechslung": [
+      {"art": "Kratzbeere", "giftig": false, "unterschied": "Früchte blau bereift mit wenigen grossen Teilfrüchten, säuerlich; essbar."},
+      {"art": "Tollkirsche", "giftig": true, "unterschied": "Keine Sammelfrucht, sondern eine einzelne, glatte, glänzend schwarze, kirschgrosse Beere in einem fünfzipfligen grünen Kelch, an einer krautigen Staude ohne Stacheln. Sehr giftig."}
+    ],
+    "verwendung": "Roh essbar; für Konfitüre, Kuchen, Sirup. Reif sind sie, wenn sie sich ganz leicht lösen.",
+    "kinder": "Mit Brombeersaft auf Papier oder Steine malen.",
+    "risiko": "niedrig",
+    "hinweis": "Lange Ärmel schützen vor Kratzern. Tief hängende Beeren am Wegrand hängen lassen oder waschen."
+  },
+  {
+    "id": "heidelbeere",
+    "name": "Heidelbeere",
+    "latin": "Vaccinium myrtillus",
+    "kategorie": "beere",
+    "emoji": "🫐",
+    "monate": [7, 8, 9],
+    "teile": "Reife Beeren",
+    "lebensraum": "Saure Böden in lichten Nadelwäldern, Mooren und auf Alpweiden der Voralpen.",
+    "erkennen": [
+      "Zwergstrauch, 15–50 cm hoch, mit grünen, scharfkantigen Zweigen",
+      "Kleine, eiförmige, fein gesägte, frischgrüne Blätter",
+      "Beeren einzeln, blauschwarz und bereift, mit rundem «Krönchen»",
+      "Fruchtfleisch und Saft dunkelviolett – färbt Finger und Zunge"
+    ],
+    "verwechslung": [
+      {"art": "Rauschbeere (Moorbeere)", "giftig": true, "unterschied": "Fruchtfleisch hell, Saft farblos (färbt nicht); Blätter blaugrün und ganzrandig; Zweige rund und braun. Kann in grösserer Menge Übelkeit und Schwindel auslösen."},
+      {"art": "Tollkirsche", "giftig": true, "unterschied": "Bis 1,5 m hohe krautige Staude; Beere kirschgross, glänzend schwarz, ohne Reif, in einem sternförmigen grünen Kelch. Sehr giftig, schon wenige Beeren sind für Kinder gefährlich."}
+    ],
+    "verwendung": "Roh essbar; für Müesli, Kuchen, Konfitüre.",
+    "kinder": "Zungen-Test: Wer hat die blauste Zunge?",
+    "risiko": "mittel",
+    "hinweis": "Beere zerdrücken: nur Beeren mit dunklem, färbendem Saft essen. Bodennahe Beeren waschen, wenn möglich. In Mooren auf den Wegen bleiben und kantonale Regeln (Verbot von «Heitisträhl»-Kämmen, Schutzgebiete) beachten."
+  },
+  {
+    "id": "hagebutte",
+    "name": "Hagebutte (Hundsrose)",
+    "latin": "Rosa canina",
+    "kategorie": "beere",
+    "emoji": "🌹",
+    "monate": [9, 10, 11],
+    "teile": "Reife, rote Früchte (Fruchtfleisch ohne Kerne); Blütenblätter im Juni",
+    "lebensraum": "Hecken, Waldränder und Weiden.",
+    "erkennen": [
+      "Strauch mit bogig überhängenden Zweigen und kräftigen, hakig gebogenen Stacheln",
+      "Gefiederte Blätter mit 5–7 gesägten Blättchen",
+      "Im Juni zartrosa bis weisse, einfache Blüten mit fünf Blütenblättern",
+      "Längliche, glatte, orangerote Früchte mit dunklem «Krönchen» (Kelchrest) an der Spitze",
+      "Innen viele helle, harte Kerne zwischen feinen Härchen"
+    ],
+    "verwechslung": [
+      {"art": "Andere Wildrosen", "giftig": false, "unterschied": "Früchte rundlicher oder borstig; alle Rosen-Hagebutten sind essbar."},
+      {"art": "Bittersüsser Nachtschatten", "giftig": true, "unterschied": "Kletternde Pflanze ohne Stacheln; kleine, weiche, glänzend rote, eiförmige Beeren in lockeren Rispen, ohne Krönchen; violette Blüten mit gelbem Zapfen."}
+    ],
+    "verwendung": "Für Hagebuttenmark («Buttenmost»), Konfitüre und Tee. Nach dem ersten Frost sind sie weich: Mark direkt aus der Frucht drücken und roh naschen.",
+    "kinder": "Weiche Hagebutte wie eine Tube ausdrücken und das Mark probieren.",
+    "risiko": "niedrig",
+    "hinweis": "Kerne und Härchen entfernen: Sie reizen Haut, Mund und Darm (das bekannte «Juckpulver»)."
+  },
+  {
+    "id": "schlehe",
+    "name": "Schlehe (Schwarzdorn)",
+    "latin": "Prunus spinosa",
+    "kategorie": "beere",
+    "emoji": "🫐",
+    "monate": [10, 11],
+    "teile": "Reife Früchte, am besten nach dem ersten Frost",
+    "lebensraum": "Sonnige Hecken, Waldränder und Böschungen.",
+    "erkennen": [
+      "Dichter, sparriger Strauch mit dunkler Rinde; Kurztriebe enden in langen, spitzen Dornen",
+      "Kleine weisse Blüten im April vor dem Laubaustrieb",
+      "Kleine, elliptische, fein gesägte Blätter",
+      "Kugelige, 1–1,5 cm grosse, blauschwarze, hell bereifte Früchte, einzeln und kurz gestielt, mit einem Steinkern",
+      "Roh sehr herb und zusammenziehend"
+    ],
+    "verwechslung": [
+      {"art": "Liguster", "giftig": true, "unterschied": "Strauch ohne Dornen mit gegenständigen, ganzrandigen, glatten Blättern; glänzend schwarze, nicht bereifte Beeren in dichten Rispen an den Zweigenden."},
+      {"art": "Faulbaum und Kreuzdorn", "giftig": true, "unterschied": "Kleine, glänzend schwarze, nicht bereifte Beeren mit mehreren Kernen, in Büscheln in den Blattachseln; Faulbaum ohne Dornen."}
+    ],
+    "verwendung": "Gekocht für Gelée, Sirup oder Mus. Frost (oder eine Nacht im Tiefkühler) macht sie milder. Roh essbar, aber sehr herb.",
+    "kinder": "Mutprobe: eine rohe Schlehe probieren – der Mund zieht sich zusammen.",
+    "risiko": "mittel",
+    "hinweis": "Kerne nicht zerbeissen oder mitmixen (enthalten Blausäure-bildende Stoffe). Vorsicht vor den Dornen. Hecken sind wichtige Vogelnahrung: nur einen Teil ernten."
+  },
+  {
+    "id": "weissdorn",
+    "name": "Weissdorn",
+    "latin": "Crataegus monogyna / Crataegus laevigata",
+    "kategorie": "beere",
+    "emoji": "🔴",
+    "monate": [9, 10],
+    "teile": "Reife, rote Früchte (Fruchtfleisch)",
+    "lebensraum": "Hecken, Waldränder und Weiden.",
+    "erkennen": [
+      "Strauch oder kleiner Baum mit bis 2 cm langen Dornen an den Zweigen",
+      "Kleine, tief gelappte Blätter (3–7 Lappen)",
+      "Im Mai weisse Blütenbüschel",
+      "Kleine, dunkelrote, eiförmige Früchte mit dunklem Kelchrest an der Spitze, mehliges gelbliches Fruchtfleisch, 1–2 harte Kerne"
+    ],
+    "verwechslung": [
+      {"art": "Gemeiner Schneeball", "giftig": true, "unterschied": "Keine Dornen; Blätter gross, ahornartig dreilappig und gegenständig; Beeren glasig-glänzend, saftig, mit einem flachen Kern; roh giftig."},
+      {"art": "Zwergmispel (Cotoneaster, Gartenflüchtling)", "giftig": true, "unterschied": "Keine Dornen; kleine, ganzrandige, ungelappte Blätter; leicht giftig."},
+      {"art": "Rote Heckenkirsche", "giftig": true, "unterschied": "Keine Dornen; weiche, ganzrandige Blätter; glänzende, saftige Beeren sitzen immer paarweise an einem Stiel."}
+    ],
+    "verwendung": "Roh essbar, aber mehlig und fad; besser gemischt mit anderen Früchten als Mus oder Gelée (durch ein Sieb streichen).",
+    "kinder": "«Mehlbeeri» probieren und die Dornen und gelappten Blätter als Erkennungszeichen suchen.",
+    "risiko": "mittel",
+    "hinweis": "Nur von Sträuchern mit Dornen UND gelappten Blättern sammeln. Kerne ausspucken."
+  },
+  {
+    "id": "kornelkirsche",
+    "name": "Kornelkirsche (Tierlibaum)",
+    "latin": "Cornus mas",
+    "kategorie": "beere",
+    "emoji": "🍒",
+    "monate": [8, 9],
+    "teile": "Vollreife, dunkelrote Früchte",
+    "lebensraum": "Sonnige Waldränder und Hecken auf kalkreichen Böden, häufig auch in Gärten und Parks gepflanzt.",
+    "erkennen": [
+      "Grosser Strauch oder kleiner Baum; kleine gelbe Blütenbüschel im Februar/März lange vor den Blättern",
+      "Blätter gegenständig, ganzrandig, mit 3–5 Paar bogig zur Spitze laufenden Nerven",
+      "Früchte länglich-oval (wie kleine Oliven), glänzend rot, hängen an Stielen",
+      "Genau ein länglicher, harter Steinkern"
+    ],
+    "verwechslung": [
+      {"art": "Rote Heckenkirsche", "giftig": true, "unterschied": "Runde, glasig-rote Beeren sitzen paarweise auf einem gemeinsamen Stiel und enthalten mehrere kleine Samen."},
+      {"art": "Seidelbast", "giftig": true, "unterschied": "Sehr giftig. Kleiner Strauch (bis 1 m); rote Beeren sitzen ohne Stiel direkt am Zweig unterhalb des Blattschopfs; Blätter wechselständig, schmal."},
+      {"art": "Roter Hartriegel", "giftig": true, "unterschied": "Gleiche Blattnerven, aber rote Zweige und kleine, kugelige, schwarze Beeren in Schirmen; roh ungeniessbar."}
+    ],
+    "verwendung": "Vollreif (dunkelrot, weich, fällt fast von selbst) roh essbar, säuerlich; sonst für Konfitüre, Sirup oder Kompott.",
+    "kinder": "Tuch unter den Strauch legen und sanft schütteln: Nur die reifen «Tierli» fallen.",
+    "risiko": "mittel",
+    "hinweis": "Frucht prüfen: länglich, einzeln gestielt, ein länglicher Kern. Kern nicht schlucken."
+  },
+  {
+    "id": "sanddorn",
+    "name": "Sanddorn",
+    "latin": "Hippophae rhamnoides",
+    "kategorie": "beere",
+    "emoji": "🟠",
+    "monate": [9, 10],
+    "teile": "Reife, orange Beeren",
+    "lebensraum": "Kiesige Flussauen und Schuttfluren (z.B. Wallis, Alpenrhein, Alpenflüsse); im Mittelland meist angepflanzt.",
+    "erkennen": [
+      "Sparriger, stark dorniger Strauch, 1–4 m hoch",
+      "Schmale, lange, silbrig-graugrüne Blätter (weidenähnlich)",
+      "Leuchtend orange, ovale Beeren sitzen dicht gedrängt direkt an den Zweigen",
+      "Beeren sehr sauer und saftig"
+    ],
+    "verwechslung": [
+      {"art": "Feuerdorn (Gartenstrauch)", "giftig": true, "unterschied": "Breitere, dunkelgrün glänzende, gekerbte Blätter; orange-rote, mehlige Beeren in Büscheln; ungeniessbar, in Mengen schwach giftig."}
+    ],
+    "verwendung": "Roh essbar, aber sehr sauer; als Saft, Sirup oder Mus mit Honig oder Zucker.",
+    "kinder": "Saure Mutprobe: eine Beere zerbeissen – wer verzieht keine Miene?",
+    "risiko": "niedrig",
+    "hinweis": "Wilde Bestände in Auen stehen oft in Schutzgebieten: dort nicht sammeln. Keine Äste abschneiden; Handschuhe gegen die Dornen."
+  },
+  {
+    "id": "steinpilz",
+    "name": "Steinpilz (Fichten-Steinpilz)",
+    "latin": "Boletus edulis",
+    "kategorie": "pilz",
+    "emoji": "🍄",
+    "monate": [7, 8, 9, 10],
+    "teile": "Ganzer, junger und fester Fruchtkörper",
+    "lebensraum": "Unter Fichten und Buchen, gern an moosigen Waldrändern und Wegböschungen.",
+    "erkennen": [
+      "Röhren (Schwamm) statt Lamellen: jung weisslich, dann gelb bis olivgrün",
+      "Hut hell- bis dunkelbraun, wie ein gebackenes Brötchen",
+      "Dicker, bauchiger, heller Stiel mit feinem weissem Netz, vor allem oben",
+      "Fleisch weiss und fest, bleibt beim Anschneiden weiss (kein Blauen)",
+      "Milder, nussiger Geschmack"
+    ],
+    "verwechslung": [
+      {"art": "Gallenröhrling", "giftig": false, "unterschied": "Ungeniessbar, extrem bitter (ein Pilz verdirbt das ganze Gericht). Röhren bald rosa; Stiel mit grobem, dunkelbraunem Netz."},
+      {"art": "Satansröhrling und andere rotporige Röhrlinge", "giftig": true, "unterschied": "Röhrenmündungen rot oder orange, Stiel rot genetzt oder gepunktet, Fleisch blaut beim Anschneiden; Hut beim Satansröhrling auffallend hell (weissgrau)."}
+    ],
+    "verwendung": "Immer gut durchgaren: gebraten, im Risotto, in Rahmsauce; in Scheiben getrocknet gut haltbar.",
+    "kinder": "Unter den Hut schauen: Schwamm oder Lamellen? Nur anschauen, nicht probieren.",
+    "risiko": "mittel",
+    "hinweis": "Pilze nie roh essen und das ganze Sammelgut vor dem Essen bei einer amtlichen Pilzkontrollstelle (VAPKO, vapko.ch) zeigen. Im luftigen Korb transportieren, nicht im Plastiksack. Kantonale Schontage und Mengenlimiten beachten."
+  },
+  {
+    "id": "eierschwamm",
+    "name": "Eierschwamm (Pfifferling)",
+    "latin": "Cantharellus cibarius",
+    "kategorie": "pilz",
+    "emoji": "🍄",
+    "monate": [6, 7, 8, 9, 10],
+    "teile": "Ganzer Fruchtkörper",
+    "lebensraum": "Moosige Nadel- und Laubwälder auf eher sauren Böden, oft in Gruppen.",
+    "erkennen": [
+      "Ganzer Pilz dottergelb, Hut und Stiel gehen ohne Absatz ineinander über",
+      "Unterseite mit dicken, stumpfen, gegabelten Leisten, die weit am Stiel herablaufen (keine dünnen, abwischbaren Lamellen)",
+      "Fleisch fest, weisslich bis blassgelb, lässt sich längs faserig zerreissen",
+      "Fruchtiger Geruch nach Aprikosen",
+      "Wächst auf dem Boden, nie auf Holz"
+    ],
+    "verwechslung": [
+      {"art": "Falscher Pfifferling", "giftig": true, "unterschied": "Dünne, weiche, dicht stehende, orange Lamellen, die sich leicht vom Hut lösen; Fleisch weich und orange; kein Aprikosenduft; oft auf morschem Holz. Kann Magen-Darm-Beschwerden auslösen."},
+      {"art": "Ölbaumtrichterling", "giftig": true, "unterschied": "Wächst büschelig an Laubholz und Baumstümpfen; echte, dünne Lamellen; orange; in der Schweiz vor allem in warmen Lagen."},
+      {"art": "Spitzgebuckelter Raukopf", "giftig": true, "unterschied": "Tödlich giftig. Orangebraun bis rostbraun, Hut mit spitzem Buckel, echte, breite, rostbraune Lamellen, schlanker Stiel; wächst im moosigen Nadelwald am gleichen Standort."}
+    ],
+    "verwendung": "Immer gut durchgaren: in Butter gebraten, im Rahmsösseli, zu Teigwaren oder Rösti. Zum Trocknen wenig geeignet.",
+    "kinder": "Riechprobe: Riecht der Pilz nach Aprikose? Danach Hände waschen.",
+    "risiko": "mittel",
+    "hinweis": "Vor dem Essen zur amtlichen Pilzkontrolle (VAPKO) bringen. Kleine Exemplare stehen lassen. Kantonale Schontage und Mengenlimiten beachten."
+  },
+  {
+    "id": "maronenroehrling",
+    "name": "Maronenröhrling",
+    "latin": "Imleria badia",
+    "kategorie": "pilz",
+    "emoji": "🍄",
+    "monate": [8, 9, 10, 11],
+    "teile": "Junge, feste Fruchtkörper",
+    "lebensraum": "Nadelwälder (Fichte, Föhre) auf sauren Böden, oft im Moos oder bei Baumstümpfen.",
+    "erkennen": [
+      "Hut kastanienbraun, trocken samtig, bei Nässe leicht schmierig",
+      "Röhren blassgelb bis olivgelb, verfärben sich auf Druck blaugrün",
+      "Stiel bräunlich, längsfaserig gestreift, ohne Netz",
+      "Fleisch weisslich-gelblich, beim Anschneiden schwach blauend",
+      "Milder Geschmack"
+    ],
+    "verwechslung": [
+      {"art": "Gallenröhrling", "giftig": false, "unterschied": "Ungeniessbar, extrem bitter. Stiel mit grobem dunklem Netz; Röhren weisslich bis rosa, blauen nicht."},
+      {"art": "Rotporige Röhrlinge (z.B. Satansröhrling)", "giftig": true, "unterschied": "Röhrenmündungen rot oder orange statt gelb; Stiel rot genetzt oder gepunktet."}
+    ],
+    "verwendung": "Immer gut durchgaren: gebraten, in Saucen und Mischpilzgerichten; Röhren älterer Pilze entfernen.",
+    "kinder": "Zaubertrick: mit dem Finger auf den gelben Schwamm drücken und zusehen, wie er blau wird. Danach Hände waschen.",
+    "risiko": "mittel",
+    "hinweis": "Nie roh essen. Vor dem Essen zur amtlichen Pilzkontrolle (VAPKO). Alte, weiche oder schimmlige Pilze stehen lassen. Kantonale Schontage und Mengenlimiten beachten."
+  },
+  {
+    "id": "semmelstoppelpilz",
+    "name": "Semmelstoppelpilz",
+    "latin": "Hydnum repandum",
+    "kategorie": "pilz",
+    "emoji": "🍄",
+    "monate": [8, 9, 10],
+    "teile": "Junge Fruchtkörper",
+    "lebensraum": "Laub- und Nadelwälder, oft in Reihen oder Hexenringen im Moos und Laub.",
+    "erkennen": [
+      "Hutunterseite mit vielen weichen, brüchigen Stacheln statt Lamellen oder Röhren",
+      "Hut blass semmelgelb bis cremefarben, matt, unregelmässig wellig-buckelig",
+      "Stiel weisslich, kurz, oft seitlich angesetzt",
+      "Fleisch weiss und brüchig"
+    ],
+    "verwechslung": [
+      {"art": "Rotgelber Semmelstoppelpilz", "giftig": false, "unterschied": "Kleiner und orange-rötlich; ebenfalls essbar."},
+      {"art": "Andere Stachelpilze (z.B. Habichtspilz, Korkstachelinge)", "giftig": false, "unterschied": "Dunkle, schuppige Hüte oder zähes, korkiges Fleisch; ungeniessbar und teils selten – stehen lassen."}
+    ],
+    "verwendung": "Immer gut durchgaren: gebraten oder in Mischpilzgerichten. Nur junge Pilze nehmen, alte werden bitter; Stacheln bei grösseren Exemplaren abschaben.",
+    "kinder": "Mit dem Finger sanft über die Unterseite streichen und die Stacheln fühlen.",
+    "risiko": "niedrig",
+    "hinweis": "Guter Anfängerpilz, trotzdem vor dem Essen zur amtlichen Pilzkontrolle (VAPKO). Nie roh essen. Kantonale Schontage und Mengenlimiten beachten."
+  },
+  {
+    "id": "krause_glucke",
+    "name": "Krause Glucke (Fette Henne)",
+    "latin": "Sparassis crispa",
+    "kategorie": "pilz",
+    "emoji": "🧽",
+    "monate": [8, 9, 10],
+    "teile": "Junger, heller Fruchtkörper",
+    "lebensraum": "Am Stammfuss oder an Stümpfen von Föhren (Kiefern), seltener anderer Nadelbäume.",
+    "erkennen": [
+      "Sieht aus wie ein grosser Badeschwamm oder ein Blumenkohl, 10–40 cm",
+      "Viele flache, bandartige, kraus gewellte Lappen",
+      "Creme- bis ockergelb, im Alter mit braunen Rändern",
+      "Strunkartiger Stiel, der im Boden an der Baumwurzel sitzt",
+      "Würzig-harziger Geruch"
+    ],
+    "verwechslung": [
+      {"art": "Breitblättrige Glucke", "giftig": false, "unterschied": "Breitere, weniger krause Lappen, meist an Tanne oder Laubbäumen; essbar, aber selten – stehen lassen."},
+      {"art": "Korallenpilze (z.B. Bauchweh-Koralle)", "giftig": true, "unterschied": "Aufrechte, rundliche, mehrfach gegabelte Ästchen wie eine Koralle, keine flachen Bänder; wachsen meist auf dem Waldboden; einige Arten lösen starke Magen-Darm-Beschwerden aus."}
+    ],
+    "verwendung": "Sehr gründlich putzen (Sand, Nadeln, Tierchen), in Stücke teilen und immer gut durchgaren: gebraten, paniert oder in Suppe.",
+    "kinder": "Erraten lassen: Ist das ein Schwamm, ein Blumenkohl oder ein Pilz?",
+    "risiko": "niedrig",
+    "hinweis": "Nur junge, helle Exemplare nehmen; alte mit braunen Stellen stehen lassen. Vor dem Essen zur amtlichen Pilzkontrolle (VAPKO). Nie roh essen."
+  },
+  {
+    "id": "riesenbovist",
+    "name": "Riesenbovist",
+    "latin": "Calvatia gigantea",
+    "kategorie": "pilz",
+    "emoji": "⚪",
+    "monate": [7, 8, 9],
+    "teile": "Junge Fruchtkörper, solange sie innen rein weiss sind",
+    "lebensraum": "Nährstoffreiche Wiesen, Weiden, Obstgärten und Waldränder.",
+    "erkennen": [
+      "Weisse Kugel von Handball- bis Fussballgrösse und grösser, ohne Stiel",
+      "Aussenhaut glatt bis feinsamtig wie Wildleder, weiss bis cremefarben",
+      "Im Schnitt durchgehend rein weiss, fest und gleichmässig wie Mozzarella – keine Struktur, keine Verfärbung",
+      "Wächst auf dem Boden, oft mehrere beieinander"
+    ],
+    "verwechslung": [
+      {"art": "Kartoffelboviste", "giftig": true, "unterschied": "Klein (bis etwa 10 cm), mit dicker, derber, gelblich-brauner, oft schuppiger Schale; innen schon früh violett-schwarz marmoriert."},
+      {"art": "Junge Knollenblätterpilze im «Ei»-Stadium", "giftig": true, "unterschied": "Tödlich giftig. Nur hühnereigross; im Längsschnitt sind Hut, Lamellen und Stiel als Umriss sichtbar. Darum kleine weisse Kugeln nie sammeln und jeden Bovist längs durchschneiden."}
+    ],
+    "verwendung": "Schälen, in fingerdicke Scheiben schneiden, panieren und wie Schnitzel gut durchbraten.",
+    "kinder": "Staunen und messen: Ist der Pilz grösser als dein Kopf?",
+    "risiko": "niedrig",
+    "hinweis": "Nur Exemplare ab Handballgrösse nehmen, die innen makellos weiss sind; gelblich, grünlich oder matschig = nicht mehr essbar. Vor dem Essen zur amtlichen Pilzkontrolle (VAPKO). Auf Weiden den Bauern fragen."
+  }
+]

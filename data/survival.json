@@ -1,0 +1,202 @@
+[
+  {
+    "id": "notrufnummern",
+    "titel": "Notrufnummern Schweiz",
+    "emoji": "📞",
+    "kategorie": "notfall",
+    "text": "144 Sanität (Ambulanz), 1414 Rega (Rettungshelikopter, vor allem in unwegsamem Gelände), 112 allgemeiner europäischer Notruf, 117 Polizei, 118 Feuerwehr, 145 Tox Info Suisse bei Vergiftungen. Sagt am Telefon: Wo seid ihr? Was ist passiert? Wie viele Verletzte? Wer ruft an? Erst auflegen, wenn die Zentrale es sagt. Ohne Empfang: Standort wechseln (Anhöhe) und 112 versuchen, das nutzt jedes verfügbare Netz. Die Rega-App übermittelt beim Alarmieren den Standort.",
+    "kinder": "Übt mit einem Spieltelefon: Das Kind «ruft 144 an» und beantwortet die vier W-Fragen."
+  },
+  {
+    "id": "alpines-notsignal",
+    "titel": "Alpines Notsignal",
+    "emoji": "🆘",
+    "kategorie": "notfall",
+    "text": "Wer in den Bergen Hilfe braucht und nicht telefonieren kann, gibt sechsmal pro Minute ein Zeichen (alle zehn Sekunden): pfeifen, rufen, mit der Lampe blinken oder mit einem Tuch winken. Dann eine Minute Pause und wiederholen, bis jemand antwortet. Die Antwort lautet: dreimal pro Minute ein Zeichen. Für den Helikopter gilt: beide Arme schräg hoch (Y wie «Yes») heisst «Wir brauchen Hilfe», ein Arm hoch und einer schräg nach unten (N wie «No») heisst «Keine Hilfe nötig».",
+    "kinder": "Jedes Kind trägt eine Trillerpfeife und übt einmal: sechs Pfiffe, auf zehn zählen dazwischen."
+  },
+  {
+    "id": "hug-a-tree",
+    "titel": "Verloren? Bleib beim Baum!",
+    "emoji": "🌲",
+    "kategorie": "notfall",
+    "text": "Die wichtigste Regel für Kinder, die ihre Familie nicht mehr sehen: sofort stehen bleiben, einen Baum in der Nähe aussuchen und dort bleiben («Hug a tree»). Wer stehen bleibt, wird viel schneller gefunden als jemand, der weiterläuft. Laut rufen oder pfeifen und antworten, wenn jemand ruft – niemand wird schimpfen. Wenn es kalt ist: Jacke zu, Kapuze auf, auf den Rucksack oder Äste sitzen statt auf den blanken Boden. Eltern gehen den Weg zurück bis zu der Stelle, wo das Kind zuletzt gesehen wurde, und alarmieren früh die Polizei (117).",
+    "kinder": "Spielt es im Wald durch: Auf das Zeichen «Verloren!» sucht sich jedes Kind einen Baum und pfeift."
+  },
+  {
+    "id": "notfallset",
+    "titel": "Das gehört immer in den Rucksack",
+    "emoji": "🎒",
+    "kategorie": "notfall",
+    "text": "Auch für kurze Ausflüge: geladenes Handy, kleine Apotheke (Pflaster, Verband, Desinfektionsmittel, Zeckenpinzette oder Zeckenkarte), Rettungsdecke, Trillerpfeife, Taschen- oder Stirnlampe, genug Wasser, Znüni, Sonnenschutz und für jedes Kind eine warme Schicht und einen Regenschutz. In den Bergen zusätzlich Karte (Papier oder offline in der App) und eine Powerbank. Kleiderfarben, die auffallen, erleichtern das Wiederfinden. Sagt vor einer Tour jemandem, wohin ihr geht und wann ihr zurück seid.",
+    "kinder": "Jedes Kind packt seinen eigenen kleinen Rucksack mit Pfeife, Trinkflasche, Jacke und einem Zettel mit eurer Telefonnummer."
+  },
+  {
+    "id": "giftiges-gegessen",
+    "titel": "Etwas Giftiges gegessen?",
+    "emoji": "☠️",
+    "kategorie": "notfall",
+    "text": "Mund ausräumen, Reste ausspucken lassen und einen Schluck Wasser oder Tee geben. Kein Erbrechen auslösen, keine Milch und kein Salzwasser geben. Sofort Tox Info Suisse anrufen: Telefon 145 (Tag und Nacht), auch wenn das Kind noch keine Beschwerden hat. Pflanzen- oder Pilzreste mitnehmen oder fotografieren (ganze Pflanze, Blätter, Früchte). Bei Bewusstlosigkeit, Atemnot oder Krämpfen direkt 144.",
+    "kinder": "Feste Familienregel üben: «Erst zeigen, dann essen» – nichts aus der Natur kommt ohne Erwachsenen-OK in den Mund."
+  },
+  {
+    "id": "gewitter",
+    "titel": "Verhalten bei Gewitter",
+    "emoji": "⛈️",
+    "kategorie": "wetter",
+    "text": "Am sichersten sind Gebäude und geschlossene Autos. Im Freien gilt: weg von Gipfeln, Graten, einzeln stehenden Bäumen, Waldrändern, Masten, Metallzäunen, Drahtseilen und Wasser; sofort aus dem See oder Fluss. Sucht eine Mulde oder das Innere eines Waldes mit gleich hohen Bäumen und haltet Abstand zu Stämmen und Ästen. Geht in die Hocke, Füsse eng zusammen, wenn möglich auf dem Rucksack oder einer Isomatte – nicht hinlegen. Die Gruppe verteilt sich mit einigen Metern Abstand. Der Spruch «Buchen sollst du suchen» ist falsch: Der Blitz schlägt in jede Baumart ein.",
+    "kinder": "Übt die «Gewitter-Hocke» als Spiel: Auf das Kommando «Blitz!» kauern alle mit geschlossenen Füssen hin."
+  },
+  {
+    "id": "blitz-donner-zaehlen",
+    "titel": "Gewitter-Distanz und 30-30-Regel",
+    "emoji": "⚡",
+    "kategorie": "wetter",
+    "text": "Zählt die Sekunden zwischen Blitz und Donner und teilt durch drei: Das ergibt ungefähr die Entfernung in Kilometern. Die 30-30-Regel: Vergehen weniger als 30 Sekunden (etwa 10 km), ist das Gewitter gefährlich nah – sofort Schutz suchen. Wartet nach dem letzten Donner noch 30 Minuten, bevor ihr weitergeht oder wieder ins Wasser steigt. Wenn Haare zu Berge stehen oder Metall surrt, droht unmittelbar ein Einschlag: sofort in die Hocke.",
+    "kinder": "Beim nächsten Gewitter zu Hause am Fenster gemeinsam zählen: «einundzwanzig, zweiundzwanzig …» und die Kilometer ausrechnen."
+  },
+  {
+    "id": "wetter-planen",
+    "titel": "Wetter prüfen und Zeichen lesen",
+    "emoji": "🌦️",
+    "kategorie": "wetter",
+    "text": "Schaut vor jedem Ausflug den Wetterbericht und das Niederschlagsradar an (z.B. MeteoSchweiz-App) und beachtet Unwetterwarnungen. An heissen Sommertagen entstehen Gewitter oft am Nachmittag: früh starten und früh zurück sein. Warnzeichen unterwegs sind rasch in die Höhe wachsende Quellwolken, schwüle Luft, auffrischender Wind und ein dunkler werdender Himmel. In den Bergen ist es pro 1000 Höhenmeter etwa 6 Grad kälter und das Wetter schlägt schneller um. Umkehren ist immer eine gute Entscheidung.",
+    "kinder": "Macht die Kinder zu «Wolkenwächtern»: Sie melden, wenn eine Wolke zum Turm wächst."
+  },
+  {
+    "id": "kaelte-schichten",
+    "titel": "Warm bleiben: Zwiebelprinzip",
+    "emoji": "🧅",
+    "kategorie": "wetter",
+    "text": "Mehrere dünne Schichten wärmen besser als eine dicke: Unterwäsche aus Wolle oder Kunstfaser, eine wärmende Schicht (Fleece) und aussen Wind- und Regenschutz. Baumwolle wird nass und kühlt aus. Kinder kühlen schneller aus als Erwachsene, vor allem wenn sie im Tragerucksack oder Schlitten sitzen und sich nicht bewegen. Warnzeichen sind Zittern, blaue Lippen, auffällige Stille oder Quengeln: dann trockene Kleider anziehen, vor Wind schützen, Warmes und Süsses zu trinken geben und umkehren. Mütze und Handschuhe gehören auch im Frühling und Herbst in den Rucksack.",
+    "kinder": "Lasst die Kinder die «Zwiebel» selbst schälen: bergauf eine Schicht aus, in der Pause sofort wieder an."
+  },
+  {
+    "id": "hitze-sonne",
+    "titel": "Sonne und Hitze",
+    "emoji": "☀️",
+    "kategorie": "wetter",
+    "text": "Kinderhaut braucht Schatten, Hut mit Nackenschutz, Sonnenbrille, deckende Kleider und Sonnencreme mit hohem Schutzfaktor; in der Höhe und am Wasser ist die Strahlung deutlich stärker. Plant bei Hitze schattige Routen, meidet die Mittagsstunden (ca. 11–15 Uhr) und macht regelmässig Trinkpausen – Kinder melden Durst oft zu spät. Kopfweh, Schwindel, Übelkeit und ein hochroter Kopf deuten auf Sonnenstich oder Hitzeerschöpfung: in den Schatten, hinlegen mit leicht erhöhtem Oberkörper, Kopf kühlen, schluckweise trinken. Bei Benommenheit oder Erbrechen 144 anrufen. Kinder nie im Auto warten lassen.",
+    "kinder": "Trink-Ritual einführen: Bei jedem Wegweiser trinken alle drei grosse Schlucke."
+  },
+  {
+    "id": "zecken",
+    "titel": "Zecken: schützen, suchen, entfernen",
+    "emoji": "🕷️",
+    "kategorie": "tiere",
+    "text": "Zecken sitzen von Frühling bis Herbst in hohem Gras, Gebüsch und Unterholz. Schützt euch mit langen Hosen, geschlossenen Schuhen und Zeckenschutzmittel und sucht am Abend den ganzen Körper ab – bei Kindern besonders Kopf, Haaransatz, hinter den Ohren, Hals, Achseln, Bauchnabel, Leisten und Kniekehlen. Eine Zecke möglichst rasch entfernen: mit feiner Pinzette oder Zeckenkarte direkt über der Haut fassen und gleichmässig gerade herausziehen, ohne Öl oder Leim; danach desinfizieren und Datum und Stelle notieren. Zecken können Borreliose und FSME (Hirnhautentzündung) übertragen: Gegen FSME gibt es eine Impfung, die das BAG für fast die ganze Schweiz empfiehlt; Borreliose wird mit Antibiotika behandelt. Zum Arzt, wenn sich in den Tagen bis Wochen danach eine sich ausbreitende Rötung zeigt oder Fieber, Kopf- oder Gliederschmerzen auftreten.",
+    "kinder": "Macht den abendlichen «Zecken-Check» zum festen Ritual nach jedem Waldtag, am besten vor dem Duschen."
+  },
+  {
+    "id": "mutterkuehe",
+    "titel": "Mutterkühe auf der Weide",
+    "emoji": "🐄",
+    "kategorie": "tiere",
+    "text": "Mutterkühe verteidigen ihre Kälber. Bleibt auf dem Weg, geht ruhig und zügig vorbei und haltet möglichst grossen Abstand (mindestens 20 Meter); wenn die Herde auf dem Weg steht, umgeht sie grossräumig. Kälber nie streicheln und nicht zwischen Kuh und Kalb geraten. Hunde an die kurze Leine nehmen – greift eine Kuh an, den Hund sofort loslassen. Warnzeichen sind Kopfsenken, Scharren, Schnauben und Brüllen: dann langsam und ruhig rückwärts zurückziehen, ohne den Tieren den Rücken zuzukehren, und nicht mit Stöcken fuchteln.",
+    "kinder": "Abmachung vor der Weide: Kinder gehen auf der kuhabgewandten Seite an der Hand, leise und ohne zu rennen."
+  },
+  {
+    "id": "herdenschutzhunde",
+    "titel": "Herdenschutzhunde",
+    "emoji": "🐕",
+    "kategorie": "tiere",
+    "text": "Herdenschutzhunde bewachen Schafe und Ziegen selbständig; Bellen und Entgegenlaufen sind normal. Bleibt ruhig stehen, gebt dem Hund Zeit, euch einzuschätzen, und sprecht ruhig. Dann langsam weitergehen und die Herde wenn möglich umgehen, nicht mitten hindurch. Hunde und Schafe nicht streicheln, nicht füttern, nicht anstarren und keine Stöcke schwenken; vom Velo absteigen und schieben. Den eigenen Hund an der Leine führen – mit Hund besser eine andere Route wählen. Beruhigt sich der Schutzhund nicht, zieht euch langsam zurück. Hinweistafeln und Karten zeigen, wo Herdenschutzhunde im Einsatz sind.",
+    "kinder": "Übt den «Statuen-Trick»: stehen bleiben, Arme unten, ruhig atmen, bis Mama oder Papa «weiter» sagt."
+  },
+  {
+    "id": "schlangen",
+    "titel": "Schlangen in der Schweiz",
+    "emoji": "🐍",
+    "kategorie": "tiere",
+    "text": "In der Schweiz gibt es zwei Giftschlangen, Kreuzotter und Aspisviper; sie leben vor allem in den Alpen, im Jura und im Tessin, im Mittelland praktisch nicht. Schlangen flüchten, wenn sie können: Abstand halten, nicht anfassen, nicht in Steinhaufen oder unter Steine greifen und in steinigem Gelände feste Schuhe tragen. Bisse sind selten und fast nie lebensgefährlich, müssen aber ärztlich beurteilt werden. Nach einem Biss: Ruhe bewahren, das betroffene Glied ruhigstellen, Ringe und Uhren abnehmen, 144 anrufen oder zum Arzt. Nicht abbinden, nicht aussaugen, nicht aufschneiden. Alle einheimischen Schlangen sind geschützt.",
+    "kinder": "Regel üben: Schlange gesehen = stehen bleiben, drei Schritte zurück, Erwachsene rufen."
+  },
+  {
+    "id": "wespen-bienen",
+    "titel": "Wespen- und Bienenstiche",
+    "emoji": "🐝",
+    "kategorie": "tiere",
+    "text": "Ruhig bleiben, nicht um sich schlagen und nicht anpusten. Süsse Getränke abdecken, Kinder aus Bechern statt aus Dosen trinken lassen und nach dem Essen Mund und Hände abwischen. Nach einem Bienenstich den Stachel rasch mit dem Fingernagel wegkratzen, dann kühlen. Bei einem Stich in Mund oder Rachen sofort 144 anrufen und Eis lutschen lassen oder von aussen kühlen. Ebenfalls sofort 144 bei Zeichen einer Allergie: Atemnot, Schwellung im Gesicht, Ausschlag am ganzen Körper, Schwindel oder Erbrechen.",
+    "kinder": "Spielt «Wespen-Statue»: Summt jemand wie eine Wespe, frieren alle ein und atmen ruhig."
+  },
+  {
+    "id": "wanderweg-signalisation",
+    "titel": "Wanderweg-Farben verstehen",
+    "emoji": "🟨",
+    "kategorie": "orientierung",
+    "text": "Gelbe Wegweiser und gelbe Rauten markieren Wanderwege: ohne besondere Anforderungen, für Familien geeignet. Weiss-rot-weiss steht für Bergwanderwege: teils steil, schmal und ausgesetzt, nötig sind Trittsicherheit, Schwindelfreiheit und feste Schuhe mit Profil – nur mit berggewohnten Kindern. Weiss-blau-weiss sind Alpinwanderwege mit Kletterstellen, Geröll oder Gletschern, die alpine Erfahrung und Ausrüstung verlangen: nichts für Familienausflüge. Pink signalisiert Winterwander- und Schneeschuhrouten. Die Zeitangaben auf den Wegweisern gelten ohne Pausen; mit Kindern grosszügig mehr Zeit einrechnen.",
+    "kinder": "Die Kinder sind «Wegweiser-Chefs»: Sie suchen die nächste gelbe Raute und sagen die Richtung an."
+  },
+  {
+    "id": "uhr-sonne",
+    "titel": "Süden finden mit Uhr und Sonne",
+    "emoji": "⌚",
+    "kategorie": "orientierung",
+    "text": "Haltet eine Uhr mit Zeigern waagrecht und dreht sie so, dass der Stundenzeiger zur Sonne zeigt. Die Mitte zwischen Stundenzeiger und der 12 (kleinerer Winkel) zeigt ungefähr nach Süden. Während der Sommerzeit nehmt ihr statt der 12 die 1. Ohne Zeigeruhr zeichnet ihr das Zifferblatt mit der aktuellen Zeit auf Papier. Die Methode ist nur eine grobe Hilfe und ersetzt Karte und Wegweiser nicht. Als Faustregel steht die Sonne am Mittag im Süden, am Morgen im Osten und am Abend im Westen.",
+    "kinder": "Probiert es auf dem Pausenplatz oder im Garten aus und kontrolliert das Resultat mit dem Handy-Kompass."
+  },
+  {
+    "id": "polarstern",
+    "titel": "Norden finden mit dem Polarstern",
+    "emoji": "⭐",
+    "kategorie": "orientierung",
+    "text": "In einer klaren Nacht sucht ihr den Grossen Wagen: sieben helle Sterne, vier als Kasten, drei als Deichsel. Verlängert die hintere Kastenkante (die beiden Sterne, die der Deichsel gegenüberliegen) etwa fünfmal nach oben aus dem Kasten heraus. Dort steht ein einzelner, mittelheller Stern: der Polarstern. Er zeigt immer ziemlich genau nach Norden, während sich alle anderen Sterne im Lauf der Nacht um ihn drehen.",
+    "kinder": "Zeichnet den Grossen Wagen tagsüber mit Steinen auf den Boden und sucht ihn am Abend am Himmel."
+  },
+  {
+    "id": "karte-umkehrzeit",
+    "titel": "Route, Karte und Umkehrzeit",
+    "emoji": "🗺️",
+    "kategorie": "orientierung",
+    "text": "Plant die Tour nach dem jüngsten Kind: lieber kurz, mit Zielen wie Feuerstelle, Bach oder Spielplatz. Ladet die Karte vorher offline aufs Handy (z.B. swisstopo-App) und merkt euch Abkürzungen und ÖV-Haltestellen als Ausstieg. Legt vor dem Start eine Umkehrzeit fest und haltet euch daran, auch wenn das Ziel nah scheint. Wenn ihr den Weg verloren habt: anhalten, ruhig bleiben, zur letzten sicheren Markierung zurückgehen – keine Abkürzungen durch steiles oder unbekanntes Gelände. Plant so, dass ihr deutlich vor dem Eindunkeln zurück seid.",
+    "kinder": "Lasst die Kinder auf der Karte den Standort suchen: Wo ist der Bach, wo die Brücke, wo sind wir?"
+  },
+  {
+    "id": "feuerstellen-waldbrand",
+    "titel": "Feuer nur an Feuerstellen",
+    "emoji": "🔥",
+    "kategorie": "feuer",
+    "text": "Nutzt bestehende, befestigte Feuerstellen und macht keine neuen im Wald oder auf der Wiese. Prüft vor dem Ausflug die aktuelle Waldbrandgefahr und allfällige Feuerverbote eures Kantons (waldbrandgefahr.ch); bei einem Verbot ist Feuern im Wald und in Waldesnähe untersagt, je nach Kanton überall im Freien. Bei starkem Wind kein Feuer machen, auch wenn es erlaubt wäre. Lasst das Feuer nie unbeaufsichtigt und haltet es klein. Brennt nur trockenes, totes Holz vom Boden – keine Äste abreissen und keinen Abfall verbrennen.",
+    "kinder": "Die Kinder prüfen vor dem Anzünden als «Feuerwehr»: Steinkreis da? Wasser bereit? Kein Wind? Nichts Brennbares rundherum?"
+  },
+  {
+    "id": "feuer-aufbauen-loeschen",
+    "titel": "Feuer sicher aufbauen und löschen",
+    "emoji": "🪵",
+    "kategorie": "feuer",
+    "text": "Sammelt zuerst drei Haufen: Zunder (trockenes Gras, feine dürre Fichtenzweiglein), fingerdicke Äste und armdicke Äste. Schichtet Zunder und dünne Ästchen locker als kleine Pyramide auf, zündet unten an und legt erst nach, wenn es gut brennt – Feuer braucht Luft. Keine Brandbeschleuniger wie Benzin oder Brennsprit verwenden. Kinder halten einen festen Abstand, rennen nicht um die Feuerstelle und tragen keine weiten Kunstfaserkleider am Feuer. Zum Schluss mit viel Wasser löschen, die Glut verrühren und nochmals giessen, bis nichts mehr raucht und die Asche handwarm ist.",
+    "kinder": "Kinder sammeln das Holz nach Dicke sortiert («Zahnstocher, Bleistift, Besenstiel») und dürfen am Schluss das Löschwasser giessen."
+  },
+  {
+    "id": "wasser-abkochen",
+    "titel": "Trinkwasser: abkochen statt aus dem Bach",
+    "emoji": "💧",
+    "kategorie": "wasser",
+    "text": "Auch klares Bachwasser kann Krankheitserreger enthalten, etwa durch Weidetiere, Wild oder Alphütten oberhalb. Nehmt deshalb genug Trinkwasser mit: als Richtwert mindestens einen halben bis einen Liter pro Person für einen halben Tag, bei Hitze deutlich mehr. Muss es doch Bachwasser sein, kocht es sprudelnd mindestens eine Minute ab, oberhalb von 2000 Metern drei Minuten. Öffentliche Dorf- und Stadtbrunnen führen in der Schweiz in der Regel Trinkwasser, ausser es steht «Kein Trinkwasser» angeschrieben; bei Brunnentrögen auf Alpweiden ist das nicht gesichert.",
+    "kinder": "Brunnen-Detektive: Die Kinder suchen am Brunnen nach dem Schild «Kein Trinkwasser», bevor die Flasche gefüllt wird."
+  },
+  {
+    "id": "bach-fluss-sicherheit",
+    "titel": "Sicher an Bach, Fluss und See",
+    "emoji": "🏞️",
+    "kategorie": "wasser",
+    "text": "Kleine Kinder am Wasser immer in Griffnähe beaufsichtigen – Ertrinken geschieht leise und schnell, auch in flachem Wasser. Spielt nur in ruhigen, flachen Bächen und meidet Flüsse mit starker Strömung, Wehre und Schwellen. Unterhalb von Kraftwerken und Stauanlagen kann der Wasserstand ohne Vorwarnung rasch steigen: Warntafeln beachten und nicht im Flussbett verweilen. Nach Gewittern oder Regen im Einzugsgebiet schwellen Bäche schnell an, auch wenn es bei euch trocken ist. Nasse Steine sind rutschig: Wasserschuhe tragen und nicht von Stein zu Stein springen. Eisflächen nur betreten, wenn sie offiziell freigegeben sind.",
+    "kinder": "Legt gemeinsam mit einem Ast oder Steinen eine «Wasserlinie» fest: Bis hierhin dürfen die Kinder alleine."
+  },
+  {
+    "id": "notunterschlupf",
+    "titel": "Schutz vor Wind, Nässe und Kälte",
+    "emoji": "⛺",
+    "kategorie": "unterschlupf",
+    "text": "Wenn ihr warten müsst, sucht zuerst einen windgeschützten, trockenen Platz ohne dürre Äste über euch und abseits von Bachbetten und Steinschlagrinnen. Die meiste Wärme verliert man an den Boden: Setzt euch auf Rucksack, Isomatte oder eine dicke Schicht Äste und Laub. Rückt eng zusammen, Kinder in die Mitte, und wickelt die Rettungsdecke eng um Körper und Jacke, damit der Wind sie nicht aufreisst; sie hält Wind und Nässe ab und wirft Körperwärme zurück. Ein Regenponcho oder eine Blache, über eine Schnur zwischen zwei Bäumen gespannt, gibt ein einfaches Dach. Zieht nasse Kleider aus und trockene an, bevor ihr friert.",
+    "kinder": "Baut an einem trockenen Nachmittag zum Spass ein Blachen-Dach und macht darunter Picknick."
+  },
+  {
+    "id": "knoten",
+    "titel": "Zwei Knoten, die immer helfen",
+    "emoji": "🪢",
+    "kategorie": "knoten",
+    "text": "Der Kreuzknoten (Samariterknoten) verbindet zwei gleich dicke Schnurenden oder schliesst ein Dreiecktuch: rechts über links und durchziehen, dann links über rechts und durchziehen – er liegt flach und symmetrisch. Der Mastwurf befestigt eine Schnur an einem Ast oder Pfosten: zweimal um den Ast wickeln, dabei die zweite Windung über die erste kreuzen und das Ende unter der Kreuzung durchstecken. Mit beiden Knoten spannt ihr eine Blache oder hängt den Rucksack auf. Sie sind für Lager und Spiel gedacht, nicht zum Sichern von Personen – Klettern und Abseilen gehören in ausgebildete Hände. Nach Gebrauch alle Schnüre wieder von den Bäumen entfernen.",
+    "kinder": "Übt mit einem dicken Seil und dem Merkspruch «rechts über links, links über rechts»."
+  }
+]

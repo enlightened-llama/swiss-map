@@ -1,0 +1,1338 @@
+[
+ {
+  "name": "Eisvogel",
+  "latin": "Alcedo atthis",
+  "gruppe": "vogel",
+  "gbif": 2475532,
+  "tipp": "An ruhigen, klaren Bächen, Flüssen und Seeufern. Sitzt auf Ästen über dem Wasser – achte auf den blauen Blitz und den scharfen «tiiht»-Ruf.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/61266631/medium.jpg",
+  "fotoCredit": "(c) Mark Kilner, some rights reserved (CC BY-NC-SA)"
+ },
+ {
+  "name": "Rotmilan",
+  "latin": "Milvus milvus",
+  "gruppe": "vogel",
+  "gbif": 5229168,
+  "tipp": "Über offenem Kulturland. Am tief gegabelten Schwanz sofort erkennbar.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/medium.jpg",
+  "fotoCredit": "no rights reserved, uploaded by Joshua S. Martin"
+ },
+ {
+  "name": "Mäusebussard",
+  "latin": "Buteo buteo",
+  "gruppe": "vogel",
+  "gbif": 2480537,
+  "tipp": "Kreist über Feldern und Waldrändern, ruft katzenartig «hiääh». Sitzt oft auf Pfosten.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/101327658/medium.jpg",
+  "fotoCredit": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt"
+ },
+ {
+  "name": "Turmfalke",
+  "latin": "Falco tinnunculus",
+  "gruppe": "vogel",
+  "gbif": 9616058,
+  "tipp": "Steht rüttelnd in der Luft über Wiesen, um Mäuse zu erspähen.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/598044895/medium.jpg",
+  "fotoCredit": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab"
+ },
+ {
+  "name": "Buntspecht",
+  "latin": "Dendrocopos major",
+  "gruppe": "vogel",
+  "gbif": 2477968,
+  "tipp": "In fast jedem Wald und Park. Trommelt im Frühling kurz und schnell.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/259132621/medium.jpeg",
+  "fotoCredit": "(c) Elio Giacone, some rights reserved (CC BY-NC), uploaded by Elio Giacone"
+ },
+ {
+  "name": "Schwarzspecht",
+  "latin": "Dryocopus martius",
+  "gruppe": "vogel",
+  "gbif": 2477872,
+  "tipp": "Grösster Specht, krähengross mit roter Kappe. In alten Buchen- und Mischwäldern.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/31574109/medium.jpg",
+  "fotoCredit": "(c) Александр, some rights reserved (CC BY-NC-SA), uploaded by Александр"
+ },
+ {
+  "name": "Grünspecht",
+  "latin": "Picus viridis",
+  "gruppe": "vogel",
+  "gbif": 2478523,
+  "tipp": "Sucht am Boden nach Ameisen. Sein Ruf klingt wie lautes Lachen.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/242668015/medium.jpg",
+  "fotoCredit": "(c) Andrea Poggi, some rights reserved (CC BY), uploaded by Andrea Poggi"
+ },
+ {
+  "name": "Kuckuck",
+  "latin": "Cuculus canorus",
+  "gruppe": "vogel",
+  "gbif": 5231918,
+  "tipp": "Von April bis Juni zu hören, heute vor allem in höheren Lagen und Feuchtgebieten.",
+  "monate": [
+   4,
+   5,
+   6
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/380547488/medium.jpg",
+  "fotoCredit": "(c) Oleg, some rights reserved (CC BY-NC), uploaded by Oleg"
+ },
+ {
+  "name": "Waldkauz",
+  "latin": "Strix aluco",
+  "gruppe": "vogel",
+  "gbif": 9282206,
+  "tipp": "Häufigste Eule. Das schaurige «huu-hu-huuu» hört man im Spätwinter abends im Wald.",
+  "monate": [
+   1,
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/451350360/medium.jpg",
+  "fotoCredit": "(c) caroline legg, some rights reserved (CC BY)"
+ },
+ {
+  "name": "Uhu",
+  "latin": "Bubo bubo",
+  "gruppe": "vogel",
+  "gbif": 5959092,
+  "tipp": "Grösste Eule Europas, brütet in Felswänden. In der Dämmerung tiefes «buho».",
+  "monate": [
+   1,
+   2,
+   3
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/556162413/medium.jpg",
+  "fotoCredit": "(c) caroline legg, some rights reserved (CC BY)"
+ },
+ {
+  "name": "Weissstorch",
+  "latin": "Ciconia ciconia",
+  "gruppe": "vogel",
+  "gbif": 2481912,
+  "tipp": "Auf Horsten auf Dächern und Masten, sucht Futter auf feuchten Wiesen.",
+  "monate": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/269104502/medium.jpg",
+  "fotoCredit": "(c) xulescu_g, some rights reserved (CC BY-SA)"
+ },
+ {
+  "name": "Graureiher",
+  "latin": "Ardea cinerea",
+  "gruppe": "vogel",
+  "gbif": 9797180,
+  "tipp": "Steht regungslos an Ufern und auf Wiesen und lauert auf Fische und Mäuse.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/73516715/medium.jpg",
+  "fotoCredit": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel"
+ },
+ {
+  "name": "Haubentaucher",
+  "latin": "Podiceps cristatus",
+  "gruppe": "vogel",
+  "gbif": 2482054,
+  "tipp": "Auf Seen. Im Frühling spektakulärer Balztanz, Junge reiten auf dem Rücken der Eltern.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/556162413/medium.jpg",
+  "fotoCredit": "(c) caroline legg, some rights reserved (CC BY)"
+ },
+ {
+  "name": "Wasseramsel",
+  "latin": "Cinclus cinclus",
+  "gruppe": "vogel",
+  "gbif": 2495093,
+  "tipp": "An schnell fliessenden Bächen. Knickst auf Steinen und taucht nach Insektenlarven.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/82887570/medium.jpg",
+  "fotoCredit": "(c) \nDirk-Jan van Roest, some rights reserved (CC BY)"
+ },
+ {
+  "name": "Kleiber",
+  "latin": "Sitta europaea",
+  "gruppe": "vogel",
+  "gbif": 2484916,
+  "tipp": "Klettert als einziger Vogel kopfvoran den Stamm hinunter.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/98789726/medium.jpg",
+  "fotoCredit": "(c) Frank Vassen, some rights reserved (CC BY)"
+ },
+ {
+  "name": "Rotkehlchen",
+  "latin": "Erithacus rubecula",
+  "gruppe": "vogel",
+  "gbif": 2492462,
+  "tipp": "Zutraulich, singt perlend und wehmütig – auch im Winter und in der Dämmerung.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ {
+  "name": "Amsel",
+  "latin": "Turdus merula",
+  "gruppe": "vogel",
+  "gbif": 2490719,
+  "tipp": "Flötet melodiös von Dachfirsten und Baumspitzen, besonders morgens und abends.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/356885346/medium.jpg",
+  "fotoCredit": "(c) Luiz Lapa, some rights reserved (CC BY)"
+ },
+ {
+  "name": "Singdrossel",
+  "latin": "Turdus philomelos",
+  "gruppe": "vogel",
+  "gbif": 7901064,
+  "tipp": "Wiederholt jedes Gesangsmotiv zwei- bis dreimal. Schlägt Schnecken auf Steinen auf.",
+  "monate": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/61267397/medium.jpg",
+  "fotoCredit": "(c) Ximo Galarza, some rights reserved (CC BY-NC-SA)"
+ },
+ {
+  "name": "Kohlmeise",
+  "latin": "Parus major",
+  "gruppe": "vogel",
+  "gbif": 9705453,
+  "tipp": "Ruft im Frühling «zi-zi-bäh». Schwarzer Bauchstreif auf gelbem Grund.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/340613122/medium.jpg",
+  "fotoCredit": "(c) Oscar Valencoso - Salomé Planas, some rights reserved (CC BY-NC)"
+ },
+ {
+  "name": "Blaumeise",
+  "latin": "Cyanistes caeruleus",
+  "gruppe": "vogel",
+  "gbif": 2487879,
+  "tipp": "Turnt kopfüber an dünnen Zweigen. Blaues Käppchen.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/41677354/medium.jpeg",
+  "fotoCredit": "(c) rorygardner79, some rights reserved (CC BY-NC)"
+ },
+ {
+  "name": "Buchfink",
+  "latin": "Fringilla coelebs",
+  "gruppe": "vogel",
+  "gbif": 2494422,
+  "tipp": "Häufigster Vogel der Schweiz. Schmetternder Gesang mit Schlussschnörkel.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/151143058/medium.jpg",
+  "fotoCredit": "(c) Jonny Andrews, some rights reserved (CC BY-NC), uploaded by Jonny Andrews"
+ },
+ {
+  "name": "Zaunkönig",
+  "latin": "Troglodytes troglodytes",
+  "gruppe": "vogel",
+  "gbif": 5231438,
+  "tipp": "Winzig, aber unglaublich laut. Schlüpft durchs Unterholz, Schwanz steil aufgestellt.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/123587461/medium.jpg",
+  "fotoCredit": "(c) William Stephens, some rights reserved (CC BY), uploaded by William Stephens"
+ },
+ {
+  "name": "Mönchsgrasmücke",
+  "latin": "Sylvia atricapilla",
+  "gruppe": "vogel",
+  "gbif": 2492956,
+  "tipp": "Flötender Gesang aus Gebüschen. Männchen mit schwarzer, Weibchen mit brauner Kappe.",
+  "monate": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/187041112/medium.jpg",
+  "fotoCredit": "(c) Marina Ribeiro, some rights reserved (CC BY-NC), uploaded by Marina Ribeiro"
+ },
+ {
+  "name": "Zilpzalp",
+  "latin": "Phylloscopus collybita",
+  "gruppe": "vogel",
+  "gbif": 2493091,
+  "tipp": "Singt seinen eigenen Namen: «zilp-zalp-zilp-zalp».",
+  "monate": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/232289336/medium.jpg",
+  "fotoCredit": "(c) Mikhail Ezdakov, some rights reserved (CC BY-NC), uploaded by Mikhail Ezdakov"
+ },
+ {
+  "name": "Eichelhäher",
+  "latin": "Garrulus glandarius",
+  "gruppe": "vogel",
+  "gbif": 5229493,
+  "tipp": "Der «Polizist des Waldes» warnt mit lautem Rätschen. Blaue Flügelfedern.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/168146456/medium.jpg",
+  "fotoCredit": "(c) Luc Viatour, some rights reserved (CC BY-SA)"
+ },
+ {
+  "name": "Mauersegler",
+  "latin": "Apus apus",
+  "gruppe": "vogel",
+  "gbif": 5228676,
+  "tipp": "Von Mai bis Juli jagen sie kreischend um Häuser. Schlafen sogar im Flug.",
+  "monate": [
+   5,
+   6,
+   7
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/40612214/medium.jpg",
+  "fotoCredit": "(c) Алексей Эбель, some rights reserved (CC BY-NC), uploaded by Алексей Эбель"
+ },
+ {
+  "name": "Feldlerche",
+  "latin": "Alauda arvensis",
+  "gruppe": "vogel",
+  "gbif": 8077224,
+  "tipp": "Singt minutenlang hoch in der Luft über Äckern und Wiesen.",
+  "monate": [
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/7408707/medium.jpeg",
+  "fotoCredit": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan"
+ },
+ {
+  "name": "Wiedehopf",
+  "latin": "Upupa epops",
+  "gruppe": "vogel",
+  "gbif": 2498415,
+  "tipp": "Selten, mit Federhaube. Vor allem im Wallis und in warmen Lagen.",
+  "monate": [
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/60494705/medium.jpg",
+  "fotoCredit": "(c) Andrej Chudý, some rights reserved (CC BY-NC-SA)"
+ },
+ {
+  "name": "Steinadler",
+  "latin": "Aquila chrysaetos",
+  "gruppe": "vogel",
+  "gbif": 2480506,
+  "tipp": "In den Alpen. Kreist an Berghängen und jagt Murmeltiere.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ {
+  "name": "Bartgeier",
+  "latin": "Gypaetus barbatus",
+  "gruppe": "vogel",
+  "gbif": 2480649,
+  "tipp": "Wieder angesiedelt in den Alpen. Fast drei Meter Spannweite, frisst Knochen.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ {
+  "name": "Stieglitz",
+  "latin": "Carduelis carduelis",
+  "gruppe": "vogel",
+  "gbif": 2494686,
+  "tipp": "Bunter Fink mit roter Gesichtsmaske, oft an Disteln und Karden.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/384965723/medium.jpg",
+  "fotoCredit": "(c) Chris Fisher, some rights reserved (CC BY-NC), uploaded by Chris Fisher"
+ },
+ {
+  "name": "Hausrotschwanz",
+  "latin": "Phoenicurus ochruros",
+  "gruppe": "vogel",
+  "gbif": 5739315,
+  "tipp": "Singt frühmorgens von Dächern, mit knirschendem Zwischenteil. Zittert mit dem roten Schwanz.",
+  "monate": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ },
+ {
+  "name": "Reh",
+  "latin": "Capreolus capreolus",
+  "gruppe": "saeuger",
+  "gbif": 5220126,
+  "tipp": "In der Dämmerung an Waldrändern und auf Wiesen. Kitze im Mai/Juni nie anfassen.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ {
+  "name": "Rothirsch",
+  "latin": "Cervus elaphus",
+  "gruppe": "saeuger",
+  "gbif": 2440958,
+  "tipp": "In Voralpen und Alpen. Im September/Oktober röhren die Stiere zur Brunft.",
+  "monate": [
+   9,
+   10
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/25186445/medium.jpg",
+  "fotoCredit": "(c) Jon J. Laysell, some rights reserved (CC BY-NC), uploaded by Jon J. Laysell"
+ },
+ {
+  "name": "Gämse",
+  "latin": "Rupicapra rupicapra",
+  "gruppe": "saeuger",
+  "gbif": 5220170,
+  "tipp": "An steilen Hängen und Felsen, auch im Jura und in Voralpen.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/456684191/medium.jpg",
+  "fotoCredit": "(c) Giles Laurent, some rights reserved (CC BY-SA)"
+ },
+ {
+  "name": "Alpensteinbock",
+  "latin": "Capra ibex",
+  "gruppe": "saeuger",
+  "gbif": 2441055,
+  "tipp": "Oberhalb der Waldgrenze. Im Frühling oft tiefer unten auf den ersten grünen Wiesen.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ {
+  "name": "Alpenmurmeltier",
+  "latin": "Marmota marmota",
+  "gruppe": "saeuger",
+  "gbif": 2437377,
+  "tipp": "Auf Alpweiden. Pfeift schrill bei Gefahr. Winterschlaf von Oktober bis April.",
+  "monate": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/39918766/medium.jpeg",
+  "fotoCredit": "(c) Mike Leveille, some rights reserved (CC BY-NC), uploaded by Mike Leveille"
+ },
+ {
+  "name": "Rotfuchs",
+  "latin": "Vulpes vulpes",
+  "gruppe": "saeuger",
+  "gbif": 5219243,
+  "tipp": "Überall, auch mitten in der Stadt. Meist in der Dämmerung unterwegs.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ {
+  "name": "Dachs",
+  "latin": "Meles meles",
+  "gruppe": "saeuger",
+  "gbif": 2433875,
+  "tipp": "Nachtaktiv. Tagsüber findet man seine Baue mit grossen Erdhaufen am Waldhang.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/172054371/medium.jpg",
+  "fotoCredit": "(c) caroline legg, some rights reserved (CC BY)"
+ },
+ {
+  "name": "Biber",
+  "latin": "Castor fiber",
+  "gruppe": "saeuger",
+  "gbif": 4409131,
+  "tipp": "An Flüssen und Seen im Mittelland. Suche nach angenagten Bäumen und Dämmen.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/262862372/medium.jpg",
+  "fotoCredit": "(c) jamesbot, some rights reserved (CC BY-NC)"
+ },
+ {
+  "name": "Eichhörnchen",
+  "latin": "Sciurus vulgaris",
+  "gruppe": "saeuger",
+  "gbif": 8211070,
+  "tipp": "In Wäldern und Parks. Zapfenspindeln am Boden verraten den Fressplatz.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/462357539/medium.jpg",
+  "fotoCredit": "(c) Rhododendrites, some rights reserved (CC BY-SA)"
+ },
+ {
+  "name": "Igel",
+  "latin": "Erinaceus europaeus",
+  "gruppe": "saeuger",
+  "gbif": 5219616,
+  "tipp": "In Gärten und an Hecken, in der Dämmerung. Winterschlaf ab November.",
+  "monate": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/132296376/medium.jpg",
+  "fotoCredit": "(c) Michael Gäbler, some rights reserved (CC BY-SA)"
+ },
+ {
+  "name": "Feldhase",
+  "latin": "Lepus europaeus",
+  "gruppe": "saeuger",
+  "gbif": 7952072,
+  "tipp": "Auf offenen Feldern, selten geworden. Viel längere Ohren als das Kaninchen.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ {
+  "name": "Wildschwein",
+  "latin": "Sus scrofa",
+  "gruppe": "saeuger",
+  "gbif": 7705930,
+  "tipp": "In Laubwäldern, vor allem im Jura und Nordwesten. Aufgewühlter Boden verrät sie.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/414500081/medium.jpg",
+  "fotoCredit": "(c) Nathalie Hausser, some rights reserved (CC BY-NC-ND)"
+ },
+ {
+  "name": "Luchs",
+  "latin": "Lynx lynx",
+  "gruppe": "saeuger",
+  "gbif": 2435240,
+  "tipp": "Sehr heimlich, in Jura und Voralpen. Man findet höchstens Spuren.",
+  "monate": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/60028871/medium.jpg",
+  "fotoCredit": "(c) Kala Murphy King, some rights reserved (CC BY-NC-ND), uploaded by Kala Murphy King"
+ },
+ {
+  "name": "Feuersalamander",
+  "latin": "Salamandra salamandra",
+  "gruppe": "amphib",
+  "gbif": 2431776,
+  "tipp": "Bei Regenwetter in feuchten Laubwäldern mit Bächen unterwegs. Nicht anfassen (Hautgift, Pilzkrankheiten).",
+  "monate": [
+   3,
+   4,
+   5,
+   9,
+   10
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/248530577/medium.jpg",
+  "fotoCredit": "(c) Ty Smith, some rights reserved (CC BY-NC), uploaded by Ty Smith"
+ },
+ {
+  "name": "Bergmolch",
+  "latin": "Ichthyosaura alpestris",
+  "gruppe": "amphib",
+  "gbif": 2431783,
+  "tipp": "Im Frühling in Waldtümpeln und Weihern. Männchen mit leuchtend orangem Bauch.",
+  "monate": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/3035642/medium.jpg",
+  "fotoCredit": "(c) Stefano Tito, some rights reserved (CC BY-NC), uploaded by Stefano Tito"
+ },
+ {
+  "name": "Grasfrosch",
+  "latin": "Rana temporaria",
+  "gruppe": "amphib",
+  "gbif": 2426805,
+  "tipp": "Laicht schon im Februar/März in Tümpeln – grosse Laichballen.",
+  "monate": [
+   2,
+   3,
+   4
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/171173/medium.jpg",
+  "fotoCredit": "(c) Jörg Hempel, some rights reserved (CC BY-SA)"
+ },
+ {
+  "name": "Erdkröte",
+  "latin": "Bufo bufo",
+  "gruppe": "amphib",
+  "gbif": 5217160,
+  "tipp": "Wandert in milden Regennächten im März zu den Laichgewässern. Laichschnüre statt Ballen.",
+  "monate": [
+   3,
+   4
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/130773208/medium.jpg",
+  "fotoCredit": "(c) Alex Shure, some rights reserved (CC BY-NC), uploaded by Alex Shure"
+ },
+ {
+  "name": "Zauneidechse",
+  "latin": "Lacerta agilis",
+  "gruppe": "amphib",
+  "gbif": 6159223,
+  "tipp": "Sonnt sich an Böschungen, Steinhaufen und Bahndämmen. Männchen im Frühling grün.",
+  "monate": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/343743366/medium.jpeg",
+  "fotoCredit": "(c) klausalix, some rights reserved (CC BY-NC)"
+ },
+ {
+  "name": "Ringelnatter",
+  "latin": "Natrix helvetica",
+  "gruppe": "amphib",
+  "gbif": 9350124,
+  "tipp": "Ungiftig, schwimmt gut. An Weihern und Flussufern. Gelbe Halbmonde am Hinterkopf.",
+  "monate": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/404696767/medium.jpeg",
+  "fotoCredit": "(c) Shreybae, some rights reserved (CC BY-NC), uploaded by Shreybae"
+ },
+ {
+  "name": "Blindschleiche",
+  "latin": "Anguis fragilis",
+  "gruppe": "amphib",
+  "gbif": 2468095,
+  "tipp": "Keine Schlange, sondern eine beinlose Echse. Unter Brettern, Steinen, im Kompost.",
+  "monate": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/85497911/medium.jpeg",
+  "fotoCredit": "(c) royc614, some rights reserved (CC BY-NC), uploaded by royc614"
+ },
+ {
+  "name": "Schwalbenschwanz",
+  "latin": "Papilio machaon",
+  "gruppe": "insekt",
+  "gbif": 8225376,
+  "tipp": "Grosser gelb-schwarzer Falter über blumenreichen Wiesen und Hügelkuppen.",
+  "monate": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/84864834/medium.jpg",
+  "fotoCredit": "(c) Martin Grimm, some rights reserved (CC BY-NC), uploaded by Martin Grimm"
+ },
+ {
+  "name": "Tagpfauenauge",
+  "latin": "Aglais io",
+  "gruppe": "insekt",
+  "gbif": 4535827,
+  "tipp": "Vier grosse «Augen» auf den Flügeln. Raupen leben an Brennnesseln.",
+  "monate": [
+   3,
+   4,
+   5,
+   7,
+   8,
+   9
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/4710619/medium.jpg",
+  "fotoCredit": "(c) S. Rae, some rights reserved (CC BY)"
+ },
+ {
+  "name": "Hirschkäfer",
+  "latin": "Lucanus cervus",
+  "gruppe": "insekt",
+  "gbif": 5743122,
+  "tipp": "Grösster Käfer Europas, an alten Eichen. Fliegt an warmen Juniabenden.",
+  "monate": [
+   6,
+   7
+  ]
+ },
+ {
+  "name": "Glühwürmchen",
+  "latin": "Lampyris noctiluca",
+  "gruppe": "insekt",
+  "gbif": 5744295,
+  "tipp": "Weibchen leuchten an warmen Juni- und Juliabenden grün im Gras an Waldrändern.",
+  "monate": [
+   6,
+   7
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/80143800/medium.jpg",
+  "fotoCredit": "(c) Philipp salzgeber, some rights reserved (CC BY-NC), uploaded by Philipp salzgeber"
+ },
+ {
+  "name": "Blauflügel-Prachtlibelle",
+  "latin": "Calopteryx virgo",
+  "gruppe": "insekt",
+  "gbif": 1427037,
+  "tipp": "Flattert schmetterlingsartig an sauberen, beschatteten Bächen.",
+  "monate": [
+   5,
+   6,
+   7,
+   8
+  ]
+ },
+ {
+  "name": "Steinpilz",
+  "latin": "Boletus edulis",
+  "gruppe": "pilz",
+  "gbif": 5954958,
+  "tipp": "Bei Fichten und Buchen. Heller Stiel mit feinem weissem Netz, Röhren statt Lamellen.",
+  "monate": [
+   7,
+   8,
+   9,
+   10
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/328303120/medium.jpg",
+  "fotoCredit": "(c) wp-polzin, some rights reserved (CC BY-NC)"
+ },
+ {
+  "name": "Eierschwamm",
+  "latin": "Cantharellus cibarius",
+  "gruppe": "pilz",
+  "gbif": 5249504,
+  "tipp": "In moosigen Nadel- und Mischwäldern. Dottergelb, mit Leisten statt Lamellen.",
+  "monate": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/309948593/medium.jpg",
+  "fotoCredit": "(c) Federico Calledda, some rights reserved (CC BY-NC), uploaded by Federico Calledda"
+ },
+ {
+  "name": "Fliegenpilz",
+  "latin": "Amanita muscaria",
+  "gruppe": "pilz",
+  "gbif": 8168319,
+  "tipp": "Giftig! Unter Birken und Fichten. Wächst oft dort, wo auch Steinpilze stehen.",
+  "monate": [
+   8,
+   9,
+   10,
+   11
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/111494893/medium.jpg",
+  "fotoCredit": "(c) Federico Calledda, some rights reserved (CC BY-NC), uploaded by Federico Calledda"
+ },
+ {
+  "name": "Speisemorchel",
+  "latin": "Morchella esculenta",
+  "gruppe": "pilz",
+  "gbif": 2594602,
+  "tipp": "Im April/Mai in Auenwäldern, unter Eschen und in Obstgärten. Roh giftig.",
+  "monate": [
+   4,
+   5
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/194781537/medium.jpg",
+  "fotoCredit": "(c) k_eper, some rights reserved (CC BY-NC-SA)"
+ },
+ {
+  "name": "Parasol",
+  "latin": "Macrolepiota procera",
+  "gruppe": "pilz",
+  "gbif": 8914748,
+  "tipp": "An Waldrändern und auf Wiesen. Sehr gross, mit verschiebbarem Ring. Verwechslungsgefahr!",
+  "monate": [
+   7,
+   8,
+   9,
+   10
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/440636205/medium.jpeg",
+  "fotoCredit": "(c) Lucian Clanet, some rights reserved (CC BY), uploaded by Lucian Clanet"
+ },
+ {
+  "name": "Maronenröhrling",
+  "latin": "Imleria badia",
+  "gruppe": "pilz",
+  "gbif": 7832732,
+  "tipp": "In Nadelwäldern. Kastanienbrauner Hut, Röhren blauen auf Druck.",
+  "monate": [
+   8,
+   9,
+   10,
+   11
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/110384969/medium.jpg",
+  "fotoCredit": "(c) Federico Calledda, some rights reserved (CC BY-NC), uploaded by Federico Calledda"
+ },
+ {
+  "name": "Hallimasch",
+  "latin": "Armillaria mellea",
+  "gruppe": "pilz",
+  "gbif": 2536891,
+  "tipp": "Büschelweise an Stämmen und Stümpfen im Spätherbst. Roh giftig.",
+  "monate": [
+   9,
+   10,
+   11
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/10028/medium.jpg",
+  "fotoCredit": "(c) Nathan Wilson, some rights reserved (CC BY-SA)"
+ },
+ {
+  "name": "Bärlauch",
+  "latin": "Allium ursinum",
+  "gruppe": "pflanze",
+  "gbif": 2857601,
+  "tipp": "Bedeckt im Frühling ganze Böden feuchter Laubwälder. Knoblauchduft.",
+  "monate": [
+   3,
+   4,
+   5
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/10674/medium.jpg",
+  "fotoCredit": "(c) Ulrika, some rights reserved (CC BY)"
+ },
+ {
+  "name": "Buschwindröschen",
+  "latin": "Anemone nemorosa",
+  "gruppe": "pflanze",
+  "gbif": 3033263,
+  "tipp": "Weisse Blütenteppiche im März/April, bevor die Bäume Laub tragen. Giftig.",
+  "monate": [
+   3,
+   4
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/732011/medium.jpg",
+  "fotoCredit": "(c) Anne SORBES, some rights reserved (CC BY-NC-SA), uploaded by Anne SORBES"
+ },
+ {
+  "name": "Märzenbecher",
+  "latin": "Leucojum vernum",
+  "gruppe": "pflanze",
+  "gbif": 2860409,
+  "tipp": "Weisse Glöckchen mit grünen Tupfen in feuchten Wäldern. Geschützt.",
+  "monate": [
+   2,
+   3,
+   4
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/474290861/medium.jpeg",
+  "fotoCredit": "(c) Alberto Colatore, some rights reserved (CC BY-NC), uploaded by Alberto Colatore"
+ },
+ {
+  "name": "Türkenbund",
+  "latin": "Lilium martagon",
+  "gruppe": "pflanze",
+  "gbif": 2753146,
+  "tipp": "Prächtige rosa Lilie in Bergwäldern und Hochstauden. Geschützt.",
+  "monate": [
+   6,
+   7
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/51715/medium.jpg",
+  "fotoCredit": "(c) Hermann Falkner, some rights reserved (CC BY-NC)"
+ },
+ {
+  "name": "Frauenschuh",
+  "latin": "Cypripedium calceolus",
+  "gruppe": "pflanze",
+  "gbif": 2820517,
+  "tipp": "Seltene, grosse Orchidee in lichten Wäldern auf Kalk. Streng geschützt.",
+  "monate": [
+   5,
+   6
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/40056382/medium.jpeg",
+  "fotoCredit": "(c) arethusa, some rights reserved (CC BY-NC), uploaded by arethusa"
+ },
+ {
+  "name": "Edelweiss",
+  "latin": "Leontopodium nivale",
+  "gruppe": "pflanze",
+  "gbif": 3140685,
+  "tipp": "Auf alpinen Kalkrasen über 1800 m. Geschützt – nur fotografieren.",
+  "monate": [
+   7,
+   8,
+   9
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/161891840/medium.jpg",
+  "fotoCredit": "(c) Sébastien SANT, some rights reserved (CC BY-NC), uploaded by Sébastien SANT"
+ },
+ {
+  "name": "Stängelloser Enzian",
+  "latin": "Gentiana acaulis",
+  "gruppe": "pflanze",
+  "gbif": 6366597,
+  "tipp": "Tiefblaue Trichter auf Bergwiesen im Frühsommer. Geschützt.",
+  "monate": [
+   5,
+   6,
+   7
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/1983667/medium.jpg",
+  "fotoCredit": "(c) OggioniAle, some rights reserved (CC BY-NC-ND), uploaded by OggioniAle"
+ },
+ {
+  "name": "Rostblättrige Alpenrose",
+  "latin": "Rhododendron ferrugineum",
+  "gruppe": "pflanze",
+  "gbif": 2883073,
+  "tipp": "Färbt im Juni/Juli ganze Hänge an der Waldgrenze rot.",
+  "monate": [
+   6,
+   7
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/455311231/medium.jpeg",
+  "fotoCredit": "(c) odenwaelder, some rights reserved (CC BY-NC), uploaded by odenwaelder"
+ },
+ {
+  "name": "Heidelbeere",
+  "latin": "Vaccinium myrtillus",
+  "gruppe": "pflanze",
+  "gbif": 2882833,
+  "tipp": "Zwergstrauch in sauren Nadelwäldern und Heiden. Beeren im Juli/August.",
+  "monate": [
+   7,
+   8
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/191246192/medium.jpeg",
+  "fotoCredit": "(c) Дмитрий Власов, some rights reserved (CC BY-NC), uploaded by Дмитрий Власов"
+ },
+ {
+  "name": "Alpen-Soldanelle",
+  "latin": "Soldanella alpina",
+  "gruppe": "pflanze",
+  "gbif": 7923515,
+  "tipp": "Violette Fransenglöckchen direkt am schmelzenden Schnee.",
+  "monate": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "foto": "https://inaturalist-open-data.s3.amazonaws.com/photos/116318821/medium.jpeg",
+  "fotoCredit": "(c) Wolfgang Bacher, some rights reserved (CC BY-NC), uploaded by Wolfgang Bacher"
+ }
+]

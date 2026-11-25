@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<title>Entdeckerkarte Schweiz</title>
+<meta name="theme-color" content="#2f6b3c">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="map"></div>
+
+<form id="search" autocomplete="off">
+  <input id="searchInput" type="search" placeholder="Ort, Berg, See suchen …" aria-label="Ort suchen">
+  <ul id="searchResults" hidden></ul>
+</form>
+
+<div id="fabs">
+  <button id="btnLocate" title="Mein Standort" aria-label="Mein Standort">◎</button>
+  <button id="btnNearby" title="Was ist um mich?" aria-label="Was ist um mich?">✨</button>
+</div>
+
+<div id="toast" hidden></div>
+
+<section id="sheet" hidden aria-live="polite">
+  <header>
+    <h2 id="sheetTitle"></h2>
+    <button id="sheetSize" aria-label="Grösse ändern">⇕</button>
+    <button id="sheetClose" aria-label="Schliessen">✕</button>
+  </header>
+  <div id="sheetBody"></div>
+</section>
+
+<nav id="tabs">
+  <button data-tab="layers"><span>🗺️</span>Karte</button>
+  <button data-tab="route"><span>🥾</span>Route</button>
+  <button data-tab="nature"><span>🦉</span>Natur</button>
+  <button data-tab="food"><span>🌿</span>Sammeln</button>
+  <button data-tab="ideas"><span>🔥</span>Ideen</button>
+</nav>
+
+<script src="vendor/leaflet/leaflet.js"></script>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
